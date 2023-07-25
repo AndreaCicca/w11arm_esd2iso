@@ -1,0 +1,5758 @@
+%PDF-1.1
+1 0 obj
+<<
+>>
+endobj
+3 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F0
+/BaseFont /Times-Roman
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Italic
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-BoldItalic
+>>
+endobj
+7 0 obj
+<<
+/Length 8 0 R
+>>
+stream
+BT
+/F1 11 Tf
+68.024 702.988 Td
+(NAME) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+87.274 687.599 Td
+(w11arm_esd2iso) Tj
+ET
+BT
+/F0 11 Tf
+164.571 687.599 Td
+(-) Tj
+ET
+BT
+/F0 11 Tf
+170.984 687.599 Td
+(utility) Tj
+ET
+BT
+/F0 11 Tf
+200.024 687.599 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+211.332 687.599 Td
+(build) Tj
+ET
+BT
+/F0 11 Tf
+236.698 687.599 Td
+(Windows) Tj
+ET
+BT
+/F0 11 Tf
+281.611 687.599 Td
+(11) Tj
+ET
+BT
+/F0 11 Tf
+295.361 687.599 Td
+(ARM) Tj
+ET
+BT
+/F0 11 Tf
+323.169 687.599 Td
+(ISOs) Tj
+ET
+BT
+/F0 11 Tf
+347.919 687.599 Td
+(from) Tj
+ET
+BT
+/F0 11 Tf
+372.053 687.599 Td
+(Microsoft) Tj
+ET
+BT
+/F0 11 Tf
+418.187 687.599 Td
+(ESD) Tj
+ET
+BT
+/F0 11 Tf
+441.716 687.599 Td
+(files) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+68.024 656.821 Td
+(SYNOPSIS) Tj
+ET
+BT
+/F1 11 Tf
+87.274 641.432 Td
+(w11arm) Tj
+ET
+/F2 11 Tf
+BT
+/F2 11 Tf
+125.763 641.432 Td
+(_) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+131.263 641.432 Td
+(esd2iso) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+167.629 641.432 Td
+([-v]) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+87.274 626.043 Td
+(w11arm) Tj
+ET
+/F2 11 Tf
+BT
+/F2 11 Tf
+125.763 626.043 Td
+(_) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+131.263 626.043 Td
+(esd2iso) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+167.629 626.043 Td
+([-v]) Tj
+ET
+BT
+/F0 11 Tf
+186.868 626.043 Td
+(-r) Tj
+ET
+/F2 11 Tf
+BT
+/F2 11 Tf
+196.944 626.043 Td
+(work-dir) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+87.274 610.654 Td
+(w11arm) Tj
+ET
+/F2 11 Tf
+BT
+/F2 11 Tf
+125.763 610.654 Td
+(_) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+131.263 610.654 Td
+(esd2iso) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+167.629 610.654 Td
+([-Vh]) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+68.024 579.876 Td
+(DESCRIPTION) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+87.274 564.487 Td
+(In) Tj
+ET
+BT
+/F0 11 Tf
+99.187 564.487 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+115.379 564.487 Td
+(first) Tj
+ET
+BT
+/F0 11 Tf
+135.850 564.487 Td
+(form,) Tj
+ET
+BT
+/F0 11 Tf
+162.734 564.487 Td
+(a) Tj
+ET
+BT
+/F0 11 Tf
+170.368 564.487 Td
+(Windows) Tj
+ET
+BT
+/F0 11 Tf
+215.281 564.487 Td
+(11) Tj
+ET
+BT
+/F0 11 Tf
+229.031 564.487 Td
+(ARM) Tj
+ET
+BT
+/F0 11 Tf
+256.839 564.487 Td
+(22H2) Tj
+ET
+BT
+/F0 11 Tf
+284.031 564.487 Td
+(ESD) Tj
+ET
+BT
+/F0 11 Tf
+307.560 564.487 Td
+(\(Electronic) Tj
+ET
+BT
+/F0 11 Tf
+359.183 564.487 Td
+(Software) Tj
+ET
+BT
+/F0 11 Tf
+401.643 564.487 Td
+(Distribution\)) Tj
+ET
+BT
+/F0 11 Tf
+461.230 564.487 Td
+(file) Tj
+ET
+BT
+/F0 11 Tf
+478.643 564.487 Td
+(is) Tj
+ET
+BT
+/F0 11 Tf
+488.730 564.487 Td
+(downloaded) Tj
+ET
+BT
+/F0 11 Tf
+87.274 549.098 Td
+(from) Tj
+ET
+BT
+/F0 11 Tf
+111.408 549.098 Td
+(Microsoft,) Tj
+ET
+BT
+/F0 11 Tf
+160.292 549.098 Td
+(and) Tj
+ET
+BT
+/F0 11 Tf
+178.926 549.098 Td
+(converted) Tj
+ET
+BT
+/F0 11 Tf
+225.049 549.098 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+236.357 549.098 Td
+(ISO.) Tj
+ET
+BT
+/F0 11 Tf
+262.328 549.098 Td
+(This) Tj
+ET
+BT
+/F0 11 Tf
+284.636 549.098 Td
+(ISO) Tj
+ET
+BT
+/F0 11 Tf
+305.107 549.098 Td
+(can) Tj
+ET
+BT
+/F0 11 Tf
+323.125 549.098 Td
+(be) Tj
+ET
+BT
+/F0 11 Tf
+336.259 549.098 Td
+(used) Tj
+ET
+BT
+/F0 11 Tf
+359.172 549.098 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+370.480 549.098 Td
+(install) Tj
+ET
+BT
+/F0 11 Tf
+400.125 549.098 Td
+(Windows) Tj
+ET
+BT
+/F0 11 Tf
+445.038 549.098 Td
+(11) Tj
+ET
+BT
+/F0 11 Tf
+458.788 549.098 Td
+(ARM) Tj
+ET
+BT
+/F0 11 Tf
+486.596 549.098 Td
+(on) Tj
+ET
+BT
+/F0 11 Tf
+500.346 549.098 Td
+(physical) Tj
+ET
+BT
+/F0 11 Tf
+87.274 533.709 Td
+(or) Tj
+ET
+BT
+/F0 11 Tf
+99.187 533.709 Td
+(virtual) Tj
+ET
+BT
+/F0 11 Tf
+130.658 533.709 Td
+(machines.) Tj
+ET
+BT
+/F0 11 Tf
+87.274 502.931 Td
+(The) Tj
+ET
+BT
+/F0 11 Tf
+107.129 502.931 Td
+(utility) Tj
+ET
+BT
+/F0 11 Tf
+136.169 502.931 Td
+(will) Tj
+ET
+BT
+/F0 11 Tf
+156.035 502.931 Td
+(prompt) Tj
+ET
+BT
+/F0 11 Tf
+190.564 502.931 Td
+(for) Tj
+ET
+BT
+/F0 11 Tf
+206.140 502.931 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+222.332 502.931 Td
+(type) Tj
+ET
+BT
+/F0 11 Tf
+244.024 502.931 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+255.937 502.931 Td
+(ISO) Tj
+ET
+BT
+/F0 11 Tf
+276.408 502.931 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+287.716 502.931 Td
+(produce) Tj
+ET
+BT
+/F0 11 Tf
+325.897 502.931 Td
+(\(either) Tj
+ET
+BT
+/F0 11 Tf
+357.357 502.931 Td
+(Home/Pro) Tj
+ET
+BT
+/F0 11 Tf
+405.328 502.931 Td
+(or) Tj
+ET
+BT
+/F0 11 Tf
+417.241 502.931 Td
+(Pro/Enterprise\)) Tj
+ET
+BT
+/F0 11 Tf
+487.201 502.931 Td
+(and) Tj
+ET
+BT
+/F0 11 Tf
+505.835 502.931 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+87.274 487.542 Td
+(language) Tj
+ET
+BT
+/F0 11 Tf
+129.734 487.542 Td
+(for) Tj
+ET
+BT
+/F0 11 Tf
+145.310 487.542 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+161.502 487.542 Td
+(created) Tj
+ET
+BT
+/F0 11 Tf
+196.009 487.542 Td
+(ISO.) Tj
+ET
+BT
+/F0 11 Tf
+221.980 487.542 Td
+(A) Tj
+ET
+BT
+/F0 11 Tf
+232.672 487.542 Td
+(list) Tj
+ET
+BT
+/F0 11 Tf
+248.875 487.542 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+260.788 487.542 Td
+(available) Tj
+ET
+BT
+/F0 11 Tf
+303.248 487.542 Td
+(languages) Tj
+ET
+BT
+/F0 11 Tf
+349.987 487.542 Td
+(will) Tj
+ET
+BT
+/F0 11 Tf
+369.853 487.542 Td
+(be) Tj
+ET
+BT
+/F0 11 Tf
+382.987 487.542 Td
+(provided) Tj
+ET
+BT
+/F0 11 Tf
+424.842 487.542 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+436.150 487.542 Td
+(assist) Tj
+ET
+BT
+/F0 11 Tf
+462.737 487.542 Td
+(in) Tj
+ET
+BT
+/F0 11 Tf
+474.045 487.542 Td
+(making) Tj
+ET
+BT
+/F0 11 Tf
+509.795 487.542 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+525.987 487.542 Td
+(ISO) Tj
+ET
+BT
+/F0 11 Tf
+87.274 472.153 Td
+(language) Tj
+ET
+BT
+/F0 11 Tf
+129.734 472.153 Td
+(selection.) Tj
+ET
+BT
+/F0 11 Tf
+87.274 441.375 Td
+(The) Tj
+ET
+BT
+/F0 11 Tf
+107.129 441.375 Td
+(generated) Tj
+ET
+BT
+/F0 11 Tf
+152.636 441.375 Td
+(ISO) Tj
+ET
+BT
+/F0 11 Tf
+173.107 441.375 Td
+(file) Tj
+ET
+BT
+/F0 11 Tf
+190.520 441.375 Td
+(is) Tj
+ET
+BT
+/F0 11 Tf
+200.607 441.375 Td
+(placed) Tj
+ET
+BT
+/F0 11 Tf
+232.067 441.375 Td
+(in) Tj
+ET
+BT
+/F0 11 Tf
+243.375 441.375 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+259.567 441.375 Td
+(current) Tj
+ET
+BT
+/F0 11 Tf
+293.469 441.375 Td
+(working) Tj
+ET
+BT
+/F0 11 Tf
+332.882 441.375 Td
+(directory.) Tj
+ET
+BT
+/F0 11 Tf
+380.842 441.375 Td
+(The) Tj
+ET
+BT
+/F0 11 Tf
+400.697 441.375 Td
+(utility) Tj
+ET
+BT
+/F0 11 Tf
+429.737 441.375 Td
+(will) Tj
+ET
+BT
+/F0 11 Tf
+449.603 441.375 Td
+(display) Tj
+ET
+BT
+/F0 11 Tf
+484.132 441.375 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+500.324 441.375 Td
+(name) Tj
+ET
+BT
+/F0 11 Tf
+526.900 441.375 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+87.274 425.986 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+103.466 425.986 Td
+(generated) Tj
+ET
+BT
+/F0 11 Tf
+148.973 425.986 Td
+(ISO) Tj
+ET
+BT
+/F0 11 Tf
+169.444 425.986 Td
+(file.) Tj
+ET
+BT
+/F0 11 Tf
+87.274 395.208 Td
+(In) Tj
+ET
+BT
+/F0 11 Tf
+99.187 395.208 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+115.379 395.208 Td
+(second) Tj
+ET
+BT
+/F0 11 Tf
+148.676 395.208 Td
+(form,) Tj
+ET
+BT
+/F0 11 Tf
+175.560 395.208 Td
+(an) Tj
+ET
+BT
+/F0 11 Tf
+188.694 395.208 Td
+(interrupted) Tj
+ET
+BT
+/F0 11 Tf
+239.712 395.208 Td
+(network) Tj
+ET
+BT
+/F0 11 Tf
+278.509 395.208 Td
+(transfer) Tj
+ET
+BT
+/F0 11 Tf
+314.853 395.208 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+326.766 395.208 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+342.958 395.208 Td
+(ESD) Tj
+ET
+BT
+/F0 11 Tf
+366.487 395.208 Td
+(from) Tj
+ET
+BT
+/F0 11 Tf
+390.621 395.208 Td
+(Microsoft) Tj
+ET
+BT
+/F0 11 Tf
+436.755 395.208 Td
+(is) Tj
+ET
+BT
+/F0 11 Tf
+446.842 395.208 Td
+(resumed) Tj
+ET
+BT
+/F0 11 Tf
+486.860 395.208 Td
+(from) Tj
+ET
+BT
+/F0 11 Tf
+510.994 395.208 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+87.274 379.819 Td
+(point) Tj
+ET
+BT
+/F0 11 Tf
+112.640 379.819 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+124.553 379.819 Td
+(interruption) Tj
+ET
+BT
+/F0 11 Tf
+179.245 379.819 Td
+(and) Tj
+ET
+BT
+/F0 11 Tf
+197.879 379.819 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+214.071 379.819 Td
+(ISO) Tj
+ET
+BT
+/F0 11 Tf
+234.542 379.819 Td
+(build) Tj
+ET
+BT
+/F0 11 Tf
+259.908 379.819 Td
+(process) Tj
+ET
+BT
+/F0 11 Tf
+295.647 379.819 Td
+(will) Tj
+ET
+BT
+/F0 11 Tf
+315.513 379.819 Td
+(continue.) Tj
+ET
+BT
+/F0 11 Tf
+361.647 379.819 Td
+(The) Tj
+ET
+/F2 11 Tf
+BT
+/F2 11 Tf
+381.502 379.819 Td
+(work-dir) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+422.752 379.819 Td
+(argument) Tj
+ET
+BT
+/F0 11 Tf
+467.049 379.819 Td
+(is) Tj
+ET
+BT
+/F0 11 Tf
+477.136 379.819 Td
+(required,) Tj
+ET
+BT
+/F0 11 Tf
+519.288 379.819 Td
+(and) Tj
+ET
+BT
+/F0 11 Tf
+87.274 364.430 Td
+(is) Tj
+ET
+BT
+/F0 11 Tf
+97.361 364.430 Td
+(expected) Tj
+ET
+BT
+/F0 11 Tf
+139.205 364.430 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+150.513 364.430 Td
+(be) Tj
+ET
+BT
+/F0 11 Tf
+163.647 364.430 Td
+(a) Tj
+ET
+BT
+/F0 11 Tf
+171.281 364.430 Td
+(work) Tj
+ET
+BT
+/F0 11 Tf
+196.636 364.430 Td
+(directory) Tj
+ET
+BT
+/F0 11 Tf
+239.096 364.430 Td
+(created) Tj
+ET
+BT
+/F0 11 Tf
+273.603 364.430 Td
+(from) Tj
+ET
+BT
+/F0 11 Tf
+297.737 364.430 Td
+(a) Tj
+ET
+BT
+/F0 11 Tf
+305.371 364.430 Td
+(prior) Tj
+ET
+BT
+/F0 11 Tf
+329.505 364.430 Td
+(failed) Tj
+ET
+BT
+/F0 11 Tf
+357.302 364.430 Td
+(run) Tj
+ET
+BT
+/F0 11 Tf
+374.715 364.430 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+386.628 364.430 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+402.820 364.430 Td
+(utility.) Tj
+ET
+BT
+/F0 11 Tf
+87.274 333.652 Td
+(In) Tj
+ET
+BT
+/F0 11 Tf
+99.187 333.652 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+115.379 333.652 Td
+(third) Tj
+ET
+BT
+/F0 11 Tf
+138.908 333.652 Td
+(form,) Tj
+ET
+BT
+/F0 11 Tf
+165.792 333.652 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+181.984 333.652 Td
+(utility) Tj
+ET
+BT
+/F0 11 Tf
+211.024 333.652 Td
+(will) Tj
+ET
+BT
+/F0 11 Tf
+230.890 333.652 Td
+(either) Tj
+ET
+BT
+/F0 11 Tf
+258.687 333.652 Td
+(print) Tj
+ET
+BT
+/F0 11 Tf
+282.216 333.652 Td
+(out) Tj
+ET
+BT
+/F0 11 Tf
+299.024 333.652 Td
+(it's) Tj
+ET
+BT
+/F0 11 Tf
+315.832 333.652 Td
+(version) Tj
+ET
+BT
+/F0 11 Tf
+350.966 333.652 Td
+(or) Tj
+ET
+BT
+/F0 11 Tf
+362.879 333.652 Td
+(a) Tj
+ET
+BT
+/F0 11 Tf
+370.513 333.652 Td
+(synopsis) Tj
+ET
+BT
+/F0 11 Tf
+411.158 333.652 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+423.071 333.652 Td
+(command) Tj
+ET
+BT
+/F0 11 Tf
+469.205 333.652 Td
+(line) Tj
+ET
+BT
+/F0 11 Tf
+488.455 333.652 Td
+(options,) Tj
+ET
+BT
+/F0 11 Tf
+526.350 333.652 Td
+(and) Tj
+ET
+BT
+/F0 11 Tf
+87.274 318.263 Td
+(immediately) Tj
+ET
+BT
+/F0 11 Tf
+145.024 318.263 Td
+(exit) Tj
+ET
+BT
+/F0 11 Tf
+164.274 318.263 Td
+(without) Tj
+ET
+BT
+/F0 11 Tf
+200.640 318.263 Td
+(performing) Tj
+ET
+BT
+/F0 11 Tf
+252.879 318.263 Td
+(any) Tj
+ET
+BT
+/F0 11 Tf
+271.513 318.263 Td
+(ISO) Tj
+ET
+BT
+/F0 11 Tf
+291.984 318.263 Td
+(build.) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+68.024 287.485 Td
+(OPTIONS) Tj
+ET
+BT
+/F1 11 Tf
+87.274 272.096 Td
+(-h) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+107.140 272.096 Td
+(Print) Tj
+ET
+BT
+/F0 11 Tf
+131.285 272.096 Td
+(a) Tj
+ET
+BT
+/F0 11 Tf
+138.919 272.096 Td
+(synopsis) Tj
+ET
+BT
+/F0 11 Tf
+179.564 272.096 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+191.477 272.096 Td
+(usage) Tj
+ET
+BT
+/F0 11 Tf
+219.274 272.096 Td
+(and) Tj
+ET
+BT
+/F0 11 Tf
+237.908 272.096 Td
+(exit) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+87.274 241.318 Td
+(-r) Tj
+ET
+/F2 11 Tf
+BT
+/F2 11 Tf
+98.571 241.318 Td
+(work-dir) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+106.524 225.929 Td
+(Resume) Tj
+ET
+BT
+/F0 11 Tf
+144.716 225.929 Td
+(an) Tj
+ET
+BT
+/F0 11 Tf
+157.850 225.929 Td
+(interrupted) Tj
+ET
+BT
+/F0 11 Tf
+208.868 225.929 Td
+(ESD) Tj
+ET
+BT
+/F0 11 Tf
+232.397 225.929 Td
+(download) Tj
+ET
+BT
+/F0 11 Tf
+278.531 225.929 Td
+(using) Tj
+ET
+BT
+/F0 11 Tf
+305.118 225.929 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+321.310 225.929 Td
+(information) Tj
+ET
+BT
+/F0 11 Tf
+376.002 225.929 Td
+(from) Tj
+ET
+BT
+/F0 11 Tf
+400.136 225.929 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+416.328 225.929 Td
+(work) Tj
+ET
+BT
+/F0 11 Tf
+441.683 225.929 Td
+(directory) Tj
+ET
+/F2 11 Tf
+BT
+/F2 11 Tf
+484.143 225.929 Td
+(work-dir) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+522.643 225.929 Td
+(.) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+87.274 195.151 Td
+(-v) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+106.524 195.151 Td
+(Enable) Tj
+ET
+BT
+/F0 11 Tf
+139.821 195.151 Td
+(verbose) Tj
+ET
+BT
+/F0 11 Tf
+176.781 195.151 Td
+(output.) Tj
+ET
+BT
+/F0 11 Tf
+213.147 195.151 Td
+(Use) Tj
+ET
+BT
+/F0 11 Tf
+233.002 195.151 Td
+(only) Tj
+ET
+BT
+/F0 11 Tf
+255.310 195.151 Td
+(when) Tj
+ET
+BT
+/F0 11 Tf
+281.886 195.151 Td
+(providing) Tj
+ET
+BT
+/F0 11 Tf
+327.415 195.151 Td
+(debugging) Tj
+ET
+BT
+/F0 11 Tf
+376.607 195.151 Td
+(output.) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+87.274 164.373 Td
+(-V) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+106.524 164.373 Td
+(Print) Tj
+ET
+BT
+/F0 11 Tf
+130.669 164.373 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+146.861 164.373 Td
+(version) Tj
+ET
+BT
+/F0 11 Tf
+181.995 164.373 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+193.908 164.373 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+210.100 164.373 Td
+(utility) Tj
+ET
+BT
+/F0 11 Tf
+239.140 164.373 Td
+(and) Tj
+ET
+BT
+/F0 11 Tf
+257.774 164.373 Td
+(exit.) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+68.024 133.595 Td
+(FILES) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+87.274 118.206 Td
+(./esd2iso_work.*) Tj
+ET
+BT
+/F0 11 Tf
+106.524 102.817 Td
+(Work) Tj
+ET
+BT
+/F0 11 Tf
+134.321 102.817 Td
+(directory) Tj
+ET
+BT
+/F0 11 Tf
+176.781 102.817 Td
+(for) Tj
+ET
+BT
+/F0 11 Tf
+192.357 102.817 Td
+(ESD) Tj
+ET
+BT
+/F0 11 Tf
+215.886 102.817 Td
+(download) Tj
+ET
+BT
+/F0 11 Tf
+262.020 102.817 Td
+(and) Tj
+ET
+BT
+/F0 11 Tf
+280.654 102.817 Td
+(image) Tj
+ET
+BT
+/F0 11 Tf
+310.288 102.817 Td
+(creation,) Tj
+ET
+BT
+/F0 11 Tf
+351.219 102.817 Td
+(located) Tj
+ET
+BT
+/F0 11 Tf
+385.737 102.817 Td
+(in) Tj
+ET
+BT
+/F0 11 Tf
+397.045 102.817 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+413.237 102.817 Td
+(current) Tj
+ET
+BT
+/F0 11 Tf
+447.139 102.817 Td
+(working) Tj
+ET
+BT
+/F0 11 Tf
+486.552 102.817 Td
+(directory.) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+68.024 739.233 Td
+(W11ARM_ESD2ISO\(1\)) Tj
+ET
+BT
+/F0 11 Tf
+435.490 739.233 Td
+(W11ARM_ESD2ISO\(1\)) Tj
+ET
+BT
+/F0 11 Tf
+68.024 36.245 Td
+(w11arm_esd2iso) Tj
+ET
+BT
+/F0 11 Tf
+145.321 36.245 Td
+(4.0.2) Tj
+ET
+BT
+/F0 11 Tf
+285.967 36.245 Td
+(July) Tj
+ET
+BT
+/F0 11 Tf
+307.054 36.245 Td
+(2023) Tj
+ET
+BT
+/F0 11 Tf
+435.490 36.245 Td
+(W11ARM_ESD2ISO\(1\)) Tj
+ET
+endstream
+endobj
+8 0 obj
+12752
+endobj
+9 0 obj
+<<
+/ProcSet [/PDF /Text]
+/Font <<
+/F0 3 0 R
+/F1 4 0 R
+/F2 5 0 R
+/F3 6 0 R
+>>
+>>
+endobj
+10 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources 9 0 R
+/Contents 7 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 12 0 R
+>>
+stream
+BT
+/F1 11 Tf
+68.024 702.988 Td
+(DEPENDENCIES) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+87.274 687.599 Td
+(w11arm_esd2iso) Tj
+ET
+BT
+/F0 11 Tf
+164.571 687.599 Td
+(requires) Tj
+ET
+BT
+/F0 11 Tf
+202.752 687.599 Td
+(an) Tj
+ET
+BT
+/F0 11 Tf
+215.886 687.599 Td
+(Apple) Tj
+ET
+BT
+/F0 11 Tf
+245.520 687.599 Td
+(Silicon) Tj
+ET
+BT
+/F0 11 Tf
+279.444 687.599 Td
+(\(M1/M2\)) Tj
+ET
+BT
+/F0 11 Tf
+323.136 687.599 Td
+(Macs) Tj
+ET
+BT
+/F0 11 Tf
+349.712 687.599 Td
+(running) Tj
+ET
+BT
+/F0 11 Tf
+386.683 687.599 Td
+(macOS) Tj
+ET
+BT
+/F0 11 Tf
+421.817 687.599 Td
+(13) Tj
+ET
+BT
+/F0 11 Tf
+435.567 687.599 Td
+(\(Ventura\)) Tj
+ET
+BT
+/F0 11 Tf
+481.074 687.599 Td
+(or) Tj
+ET
+BT
+/F0 11 Tf
+492.987 687.599 Td
+(later.) Tj
+ET
+BT
+/F0 11 Tf
+87.274 656.821 Td
+(Starting) Tj
+ET
+BT
+/F0 11 Tf
+124.861 656.821 Td
+(with) Tj
+ET
+BT
+/F0 11 Tf
+147.169 656.821 Td
+(version) Tj
+ET
+BT
+/F0 11 Tf
+182.303 656.821 Td
+(3.0,) Tj
+ET
+BT
+/F0 11 Tf
+201.553 656.821 Td
+(w11arm_esd2iso) Tj
+ET
+BT
+/F0 11 Tf
+278.850 656.821 Td
+(no) Tj
+ET
+BT
+/F0 11 Tf
+292.600 656.821 Td
+(longer) Tj
+ET
+BT
+/F0 11 Tf
+323.455 656.821 Td
+(requires) Tj
+ET
+BT
+/F0 11 Tf
+361.636 656.821 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+377.828 656.821 Td
+(installation) Tj
+ET
+BT
+/F0 11 Tf
+429.473 656.821 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+441.386 656.821 Td
+(open-source) Tj
+ET
+BT
+/F0 11 Tf
+497.893 656.821 Td
+(utilities) Tj
+ET
+BT
+/F0 11 Tf
+87.274 641.432 Td
+(from) Tj
+ET
+BT
+/F0 11 Tf
+111.408 641.432 Td
+(Homebrew) Tj
+ET
+BT
+/F0 11 Tf
+163.031 641.432 Td
+(or) Tj
+ET
+BT
+/F0 11 Tf
+174.944 641.432 Td
+(MacPorts.) Tj
+ET
+BT
+/F0 11 Tf
+225.357 641.432 Td
+(All) Tj
+ET
+BT
+/F0 11 Tf
+242.165 641.432 Td
+(required) Tj
+ET
+BT
+/F0 11 Tf
+281.567 641.432 Td
+(utilities) Tj
+ET
+BT
+/F0 11 Tf
+317.328 641.432 Td
+(are) Tj
+ET
+BT
+/F0 11 Tf
+333.509 641.432 Td
+(provided) Tj
+ET
+BT
+/F0 11 Tf
+375.364 641.432 Td
+(in) Tj
+ET
+BT
+/F0 11 Tf
+386.672 641.432 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+402.864 641.432 Td
+(distribution) Tj
+ET
+BT
+/F0 11 Tf
+456.346 641.432 Td
+(zip) Tj
+ET
+BT
+/F0 11 Tf
+472.538 641.432 Td
+(file.) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+68.024 610.654 Td
+(EXIT) Tj
+ET
+BT
+/F1 11 Tf
+97.669 610.654 Td
+(VALUES) Tj
+ET
+BT
+/F1 11 Tf
+87.274 595.265 Td
+(0) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+106.524 595.265 Td
+(Successful) Tj
+ET
+BT
+/F0 11 Tf
+156.321 595.265 Td
+(creation) Tj
+ET
+BT
+/F0 11 Tf
+194.502 595.265 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+206.415 595.265 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+222.607 595.265 Td
+(ISO) Tj
+ET
+BT
+/F0 11 Tf
+243.078 595.265 Td
+(file) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+87.274 564.487 Td
+(Non-zero) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+106.524 549.098 Td
+(Unsuccessful) Tj
+ET
+BT
+/F0 11 Tf
+167.926 549.098 Td
+(creation) Tj
+ET
+BT
+/F0 11 Tf
+206.107 549.098 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+218.020 549.098 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+234.212 549.098 Td
+(ISO) Tj
+ET
+BT
+/F0 11 Tf
+254.683 549.098 Td
+(file) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+68.024 518.320 Td
+(NOTES) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+87.274 502.931 Td
+(There) Tj
+ET
+BT
+/F0 11 Tf
+115.676 502.931 Td
+(are) Tj
+ET
+BT
+/F0 11 Tf
+131.857 502.931 Td
+(no) Tj
+ET
+BT
+/F0 11 Tf
+145.607 502.931 Td
+(intentions) Tj
+ET
+BT
+/F0 11 Tf
+191.752 502.931 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+203.060 502.931 Td
+(make) Tj
+ET
+BT
+/F0 11 Tf
+229.636 502.931 Td
+(this) Tj
+ET
+BT
+/F0 11 Tf
+248.281 502.931 Td
+(script) Tj
+ET
+BT
+/F0 11 Tf
+275.473 502.931 Td
+(run) Tj
+ET
+BT
+/F0 11 Tf
+292.886 502.931 Td
+(on) Tj
+ET
+BT
+/F0 11 Tf
+306.636 502.931 Td
+(Windows) Tj
+ET
+BT
+/F0 11 Tf
+351.549 502.931 Td
+(or) Tj
+ET
+BT
+/F0 11 Tf
+363.462 502.931 Td
+(Intel) Tj
+ET
+BT
+/F0 11 Tf
+386.375 502.931 Td
+(Macs.) Tj
+ET
+BT
+/F0 11 Tf
+87.274 472.153 Td
+(w11arm_esd2iso) Tj
+ET
+BT
+/F0 11 Tf
+164.571 472.153 Td
+(only) Tj
+ET
+BT
+/F0 11 Tf
+186.879 472.153 Td
+(builds) Tj
+ET
+BT
+/F0 11 Tf
+216.524 472.153 Td
+(ISO) Tj
+ET
+BT
+/F0 11 Tf
+236.995 472.153 Td
+(media) Tj
+ET
+BT
+/F0 11 Tf
+266.629 472.153 Td
+(for) Tj
+ET
+BT
+/F0 11 Tf
+282.205 472.153 Td
+(Windows) Tj
+ET
+BT
+/F0 11 Tf
+327.118 472.153 Td
+(11) Tj
+ET
+BT
+/F0 11 Tf
+340.868 472.153 Td
+(ARM) Tj
+ET
+BT
+/F0 11 Tf
+368.676 472.153 Td
+(22H2.) Tj
+ET
+BT
+/F0 11 Tf
+401.368 472.153 Td
+(It) Tj
+ET
+BT
+/F0 11 Tf
+410.839 472.153 Td
+(does) Tj
+ET
+BT
+/F0 11 Tf
+433.752 472.153 Td
+(not) Tj
+ET
+BT
+/F0 11 Tf
+450.560 472.153 Td
+(build) Tj
+ET
+BT
+/F0 11 Tf
+475.926 472.153 Td
+(media) Tj
+ET
+BT
+/F0 11 Tf
+505.560 472.153 Td
+(for) Tj
+ET
+BT
+/F0 11 Tf
+521.136 472.153 Td
+(any) Tj
+ET
+BT
+/F0 11 Tf
+87.274 456.764 Td
+(other) Tj
+ET
+BT
+/F0 11 Tf
+112.629 456.764 Td
+(versions) Tj
+ET
+BT
+/F0 11 Tf
+152.042 456.764 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+163.955 456.764 Td
+(Windows) Tj
+ET
+BT
+/F0 11 Tf
+208.868 456.764 Td
+(or) Tj
+ET
+BT
+/F0 11 Tf
+220.781 456.764 Td
+(Windows) Tj
+ET
+BT
+/F0 11 Tf
+265.694 456.764 Td
+(Server.) Tj
+ET
+BT
+/F0 11 Tf
+87.274 425.986 Td
+(The) Tj
+ET
+BT
+/F0 11 Tf
+107.129 425.986 Td
+(current) Tj
+ET
+BT
+/F0 11 Tf
+141.031 425.986 Td
+(working) Tj
+ET
+BT
+/F0 11 Tf
+180.444 425.986 Td
+(directory) Tj
+ET
+BT
+/F0 11 Tf
+222.904 425.986 Td
+(must) Tj
+ET
+BT
+/F0 11 Tf
+247.049 425.986 Td
+(be) Tj
+ET
+BT
+/F0 11 Tf
+260.183 425.986 Td
+(changed) Tj
+ET
+BT
+/F0 11 Tf
+299.585 425.986 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+310.893 425.986 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+327.085 425.986 Td
+(directory) Tj
+ET
+BT
+/F0 11 Tf
+369.545 425.986 Td
+(where) Tj
+ET
+BT
+/F0 11 Tf
+399.168 425.986 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+415.360 425.986 Td
+(distribution) Tj
+ET
+BT
+/F0 11 Tf
+468.842 425.986 Td
+(zip) Tj
+ET
+BT
+/F0 11 Tf
+485.034 425.986 Td
+(file) Tj
+ET
+BT
+/F0 11 Tf
+502.447 425.986 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+87.274 410.597 Td
+(w11arm_esd2iso) Tj
+ET
+BT
+/F0 11 Tf
+164.571 410.597 Td
+(was) Tj
+ET
+BT
+/F0 11 Tf
+184.426 410.597 Td
+(extracted.) Tj
+ET
+BT
+/F0 11 Tf
+232.991 410.597 Td
+(The) Tj
+ET
+BT
+/F0 11 Tf
+252.846 410.597 Td
+(utility) Tj
+ET
+BT
+/F0 11 Tf
+281.886 410.597 Td
+(must) Tj
+ET
+BT
+/F0 11 Tf
+306.031 410.597 Td
+(be) Tj
+ET
+BT
+/F0 11 Tf
+319.165 410.597 Td
+(executed) Tj
+ET
+BT
+/F0 11 Tf
+361.009 410.597 Td
+(from) Tj
+ET
+BT
+/F0 11 Tf
+385.143 410.597 Td
+(that) Tj
+ET
+BT
+/F0 11 Tf
+404.393 410.597 Td
+(directory) Tj
+ET
+BT
+/F0 11 Tf
+446.853 410.597 Td
+(otherwise) Tj
+ET
+BT
+/F0 11 Tf
+492.371 410.597 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+87.274 395.208 Td
+(required) Tj
+ET
+BT
+/F0 11 Tf
+126.676 395.208 Td
+(bundled) Tj
+ET
+BT
+/F0 11 Tf
+164.868 395.208 Td
+(components) Tj
+ET
+BT
+/F0 11 Tf
+220.781 395.208 Td
+(will) Tj
+ET
+BT
+/F0 11 Tf
+240.647 395.208 Td
+(not) Tj
+ET
+BT
+/F0 11 Tf
+257.455 395.208 Td
+(be) Tj
+ET
+BT
+/F0 11 Tf
+270.589 395.208 Td
+(found.) Tj
+ET
+BT
+/F0 11 Tf
+87.274 364.430 Td
+(Have) Tj
+ET
+BT
+/F0 11 Tf
+113.234 364.430 Td
+(at) Tj
+ET
+BT
+/F0 11 Tf
+123.926 364.430 Td
+(least) Tj
+ET
+BT
+/F0 11 Tf
+146.839 364.430 Td
+(12) Tj
+ET
+BT
+/F0 11 Tf
+160.589 364.430 Td
+(GB) Tj
+ET
+BT
+/F0 11 Tf
+178.618 364.430 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+190.531 364.430 Td
+(free) Tj
+ET
+BT
+/F0 11 Tf
+210.375 364.430 Td
+(disk) Tj
+ET
+BT
+/F0 11 Tf
+231.462 364.430 Td
+(space) Tj
+ET
+BT
+/F0 11 Tf
+258.643 364.430 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+269.951 364.430 Td
+(run) Tj
+ET
+BT
+/F0 11 Tf
+287.364 364.430 Td
+(w11arm_esd2iso.) Tj
+ET
+BT
+/F0 11 Tf
+370.161 364.430 Td
+(Checks) Tj
+ET
+BT
+/F0 11 Tf
+405.295 364.430 Td
+(are) Tj
+ET
+BT
+/F0 11 Tf
+421.476 364.430 Td
+(performed) Tj
+ET
+BT
+/F0 11 Tf
+470.041 364.430 Td
+(for) Tj
+ET
+BT
+/F0 11 Tf
+485.617 364.430 Td
+(sufficient) Tj
+ET
+BT
+/F0 11 Tf
+87.274 349.041 Td
+(disk) Tj
+ET
+BT
+/F0 11 Tf
+108.361 349.041 Td
+(space) Tj
+ET
+BT
+/F0 11 Tf
+135.542 349.041 Td
+(and) Tj
+ET
+BT
+/F0 11 Tf
+154.176 349.041 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+170.368 349.041 Td
+(utility) Tj
+ET
+BT
+/F0 11 Tf
+199.408 349.041 Td
+(will) Tj
+ET
+BT
+/F0 11 Tf
+219.274 349.041 Td
+(refuse) Tj
+ET
+BT
+/F0 11 Tf
+248.897 349.041 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+260.205 349.041 Td
+(run) Tj
+ET
+BT
+/F0 11 Tf
+277.618 349.041 Td
+(if) Tj
+ET
+BT
+/F0 11 Tf
+287.089 349.041 Td
+(space) Tj
+ET
+BT
+/F0 11 Tf
+314.270 349.041 Td
+(isn't) Tj
+ET
+BT
+/F0 11 Tf
+336.578 349.041 Td
+(available.) Tj
+ET
+BT
+/F0 11 Tf
+384.538 349.041 Td
+(available.) Tj
+ET
+BT
+/F0 11 Tf
+87.274 318.263 Td
+(The) Tj
+ET
+BT
+/F0 11 Tf
+107.129 318.263 Td
+(w11arm_esd2iso) Tj
+ET
+BT
+/F0 11 Tf
+184.426 318.263 Td
+(utility) Tj
+ET
+BT
+/F0 11 Tf
+213.466 318.263 Td
+(contains) Tj
+ET
+BT
+/F0 11 Tf
+252.879 318.263 Td
+(bundled) Tj
+ET
+BT
+/F0 11 Tf
+291.071 318.263 Td
+(versions) Tj
+ET
+BT
+/F0 11 Tf
+330.484 318.263 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+342.397 318.263 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+358.589 318.263 Td
+(open-source) Tj
+ET
+BT
+/F0 11 Tf
+415.096 318.263 Td
+(wimlib-imagex\(1\)) Tj
+ET
+BT
+/F0 11 Tf
+497.893 318.263 Td
+(and) Tj
+ET
+BT
+/F0 11 Tf
+87.274 302.874 Td
+(aria2c\(1\)) Tj
+ET
+BT
+/F0 11 Tf
+129.723 302.874 Td
+(utilities.) Tj
+ET
+BT
+/F0 11 Tf
+170.984 302.874 Td
+(These) Tj
+ET
+BT
+/F0 11 Tf
+200.002 302.874 Td
+(will) Tj
+ET
+BT
+/F0 11 Tf
+219.868 302.874 Td
+(be) Tj
+ET
+BT
+/F0 11 Tf
+233.002 302.874 Td
+(used) Tj
+ET
+BT
+/F0 11 Tf
+255.915 302.874 Td
+(if) Tj
+ET
+BT
+/F0 11 Tf
+265.386 302.874 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+281.578 302.874 Td
+(utilities) Tj
+ET
+BT
+/F0 11 Tf
+317.339 302.874 Td
+(are) Tj
+ET
+BT
+/F0 11 Tf
+333.520 302.874 Td
+(not) Tj
+ET
+BT
+/F0 11 Tf
+350.328 302.874 Td
+(found) Tj
+ET
+BT
+/F0 11 Tf
+378.741 302.874 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+390.049 302.874 Td
+(be) Tj
+ET
+BT
+/F0 11 Tf
+403.183 302.874 Td
+(installed) Tj
+ET
+BT
+/F0 11 Tf
+443.212 302.874 Td
+(with) Tj
+ET
+BT
+/F0 11 Tf
+87.274 287.485 Td
+(Homebrew/MacPorts.) Tj
+ET
+BT
+/F0 11 Tf
+189.618 287.485 Td
+(This) Tj
+ET
+BT
+/F0 11 Tf
+211.926 287.485 Td
+(is) Tj
+ET
+BT
+/F0 11 Tf
+222.013 287.485 Td
+(done) Tj
+ET
+BT
+/F0 11 Tf
+246.147 287.485 Td
+(for) Tj
+ET
+BT
+/F0 11 Tf
+261.723 287.485 Td
+(ease) Tj
+ET
+BT
+/F0 11 Tf
+283.404 287.485 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+295.317 287.485 Td
+(use) Tj
+ET
+BT
+/F0 11 Tf
+312.730 287.485 Td
+(-) Tj
+ET
+BT
+/F0 11 Tf
+319.143 287.485 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+335.335 287.485 Td
+(user) Tj
+ET
+BT
+/F0 11 Tf
+356.411 287.485 Td
+(does) Tj
+ET
+BT
+/F0 11 Tf
+379.324 287.485 Td
+(not) Tj
+ET
+BT
+/F0 11 Tf
+396.132 287.485 Td
+(have) Tj
+ET
+BT
+/F0 11 Tf
+419.650 287.485 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+430.958 287.485 Td
+(go) Tj
+ET
+BT
+/F0 11 Tf
+444.708 287.485 Td
+(through) Tj
+ET
+BT
+/F0 11 Tf
+481.679 287.485 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+87.274 272.096 Td
+(complexity) Tj
+ET
+BT
+/F0 11 Tf
+139.524 272.096 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+151.437 272.096 Td
+(installing) Tj
+ET
+BT
+/F0 11 Tf
+195.140 272.096 Td
+(Xcode) Tj
+ET
+BT
+/F0 11 Tf
+226.600 272.096 Td
+(command) Tj
+ET
+BT
+/F0 11 Tf
+272.734 272.096 Td
+(line) Tj
+ET
+BT
+/F0 11 Tf
+291.984 272.096 Td
+(tools,) Tj
+ET
+BT
+/F0 11 Tf
+318.879 272.096 Td
+(Homebrew/MacPorts,) Tj
+ET
+BT
+/F0 11 Tf
+418.473 272.096 Td
+(and) Tj
+ET
+BT
+/F0 11 Tf
+437.107 272.096 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+453.299 272.096 Td
+(packages) Tj
+ET
+BT
+/F0 11 Tf
+496.364 272.096 Td
+(containing) Tj
+ET
+BT
+/F0 11 Tf
+87.274 256.707 Td
+(these) Tj
+ET
+BT
+/F0 11 Tf
+112.629 256.707 Td
+(utilities.) Tj
+ET
+BT
+/F0 11 Tf
+153.890 256.707 Td
+(Im) Tj
+ET
+BT
+/F0 11 Tf
+168.861 256.707 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+185.053 256.707 Td
+(unlikely) Tj
+ET
+BT
+/F0 11 Tf
+223.861 256.707 Td
+(event) Tj
+ET
+BT
+/F0 11 Tf
+250.437 256.707 Td
+(that) Tj
+ET
+BT
+/F0 11 Tf
+269.687 256.707 Td
+(existing) Tj
+ET
+BT
+/F0 11 Tf
+307.274 256.707 Td
+(user-installed) Tj
+ET
+BT
+/F0 11 Tf
+369.292 256.707 Td
+(versions) Tj
+ET
+BT
+/F0 11 Tf
+408.705 256.707 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+420.618 256.707 Td
+(aria2c) Tj
+ET
+BT
+/F0 11 Tf
+450.241 256.707 Td
+(and) Tj
+ET
+BT
+/F0 11 Tf
+468.875 256.707 Td
+(wimlib-imagex) Tj
+ET
+BT
+/F0 11 Tf
+87.274 241.318 Td
+(present) Tj
+ET
+BT
+/F0 11 Tf
+121.792 241.318 Td
+(a) Tj
+ET
+BT
+/F0 11 Tf
+129.426 241.318 Td
+(problem,) Tj
+ET
+BT
+/F0 11 Tf
+171.589 241.318 Td
+(an) Tj
+ET
+BT
+/F0 11 Tf
+184.723 241.318 Td
+(uninstall) Tj
+ET
+BT
+/F0 11 Tf
+225.368 241.318 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+237.281 241.318 Td
+(Homebrew/MacPorts) Tj
+ET
+BT
+/F0 11 Tf
+334.125 241.318 Td
+(is) Tj
+ET
+BT
+/F0 11 Tf
+344.212 241.318 Td
+(not) Tj
+ET
+BT
+/F0 11 Tf
+361.020 241.318 Td
+(necessary.) Tj
+ET
+BT
+/F0 11 Tf
+412.027 241.318 Td
+(The) Tj
+ET
+BT
+/F0 11 Tf
+431.882 241.318 Td
+(default) Tj
+ET
+BT
+/F0 11 Tf
+465.179 241.318 Td
+(behavior) Tj
+ET
+BT
+/F0 11 Tf
+506.418 241.318 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+518.331 241.318 Td
+(using) Tj
+ET
+BT
+/F0 11 Tf
+87.274 225.929 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+103.466 225.929 Td
+(bundled) Tj
+ET
+BT
+/F0 11 Tf
+141.658 225.929 Td
+(utilites) Tj
+ET
+BT
+/F0 11 Tf
+174.361 225.929 Td
+(can) Tj
+ET
+BT
+/F0 11 Tf
+192.379 225.929 Td
+(be) Tj
+ET
+BT
+/F0 11 Tf
+205.513 225.929 Td
+(restored) Tj
+ET
+BT
+/F0 11 Tf
+243.694 225.929 Td
+(by) Tj
+ET
+BT
+/F0 11 Tf
+257.444 225.929 Td
+(removing) Tj
+ET
+BT
+/F0 11 Tf
+302.357 225.929 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+318.549 225.929 Td
+(Homebrew/MacPorts) Tj
+ET
+BT
+/F0 11 Tf
+415.393 225.929 Td
+(binary) Tj
+ET
+BT
+/F0 11 Tf
+446.248 225.929 Td
+(directory) Tj
+ET
+BT
+/F0 11 Tf
+488.708 225.929 Td
+(from) Tj
+ET
+BT
+/F0 11 Tf
+512.842 225.929 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+87.274 210.540 Td
+($PATH) Tj
+ET
+BT
+/F0 11 Tf
+124.245 210.540 Td
+(variable) Tj
+ET
+BT
+/F0 11 Tf
+162.426 210.540 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+174.339 210.540 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+190.531 210.540 Td
+(shell) Tj
+ET
+BT
+/F0 11 Tf
+214.060 210.540 Td
+(being) Tj
+ET
+BT
+/F0 11 Tf
+241.252 210.540 Td
+(used) Tj
+ET
+BT
+/F0 11 Tf
+264.165 210.540 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+275.473 210.540 Td
+(run) Tj
+ET
+BT
+/F0 11 Tf
+292.886 210.540 Td
+(w11arm_esd2iso.) Tj
+ET
+BT
+/F0 11 Tf
+87.274 179.762 Td
+(The) Tj
+ET
+BT
+/F0 11 Tf
+107.129 179.762 Td
+(work) Tj
+ET
+BT
+/F0 11 Tf
+132.484 179.762 Td
+(directory) Tj
+ET
+BT
+/F0 11 Tf
+174.944 179.762 Td
+(will) Tj
+ET
+BT
+/F0 11 Tf
+194.810 179.762 Td
+(be) Tj
+ET
+BT
+/F0 11 Tf
+207.944 179.762 Td
+(deleted) Tj
+ET
+BT
+/F0 11 Tf
+242.462 179.762 Td
+(upon) Tj
+ET
+BT
+/F0 11 Tf
+267.212 179.762 Td
+(successful) Tj
+ET
+BT
+/F0 11 Tf
+315.172 179.762 Td
+(ISO) Tj
+ET
+BT
+/F0 11 Tf
+335.643 179.762 Td
+(creation) Tj
+ET
+BT
+/F0 11 Tf
+373.824 179.762 Td
+(and) Tj
+ET
+BT
+/F0 11 Tf
+392.458 179.762 Td
+(when) Tj
+ET
+BT
+/F0 11 Tf
+419.034 179.762 Td
+(most) Tj
+ET
+BT
+/F0 11 Tf
+443.179 179.762 Td
+(errors) Tj
+ET
+BT
+/F0 11 Tf
+471.581 179.762 Td
+(are) Tj
+ET
+BT
+/F0 11 Tf
+87.274 164.373 Td
+(encountered.) Tj
+ET
+BT
+/F0 11 Tf
+149.281 164.373 Td
+(It) Tj
+ET
+BT
+/F0 11 Tf
+158.752 164.373 Td
+(will) Tj
+ET
+BT
+/F0 11 Tf
+178.618 164.373 Td
+(not) Tj
+ET
+BT
+/F0 11 Tf
+195.426 164.373 Td
+(be) Tj
+ET
+BT
+/F0 11 Tf
+208.560 164.373 Td
+(deleted) Tj
+ET
+BT
+/F0 11 Tf
+243.078 164.373 Td
+(if) Tj
+ET
+BT
+/F0 11 Tf
+252.549 164.373 Td
+(a) Tj
+ET
+BT
+/F0 11 Tf
+260.183 164.373 Td
+(transfer) Tj
+ET
+BT
+/F0 11 Tf
+296.527 164.373 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+308.440 164.373 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+324.632 164.373 Td
+(ESD) Tj
+ET
+BT
+/F0 11 Tf
+348.161 164.373 Td
+(can) Tj
+ET
+BT
+/F0 11 Tf
+366.179 164.373 Td
+(be) Tj
+ET
+BT
+/F0 11 Tf
+379.313 164.373 Td
+(restarted) Tj
+ET
+BT
+/F0 11 Tf
+419.936 164.373 Td
+(using) Tj
+ET
+BT
+/F0 11 Tf
+446.523 164.373 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+462.715 164.373 Td
+(-r) Tj
+ET
+BT
+/F0 11 Tf
+472.791 164.373 Td
+(option,) Tj
+ET
+BT
+/F0 11 Tf
+506.407 164.373 Td
+(or) Tj
+ET
+BT
+/F0 11 Tf
+518.320 164.373 Td
+(if) Tj
+ET
+BT
+/F0 11 Tf
+527.791 164.373 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+87.274 148.984 Td
+(final) Tj
+ET
+BT
+/F0 11 Tf
+110.187 148.984 Td
+(phase) Tj
+ET
+BT
+/F0 11 Tf
+137.984 148.984 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+149.897 148.984 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+166.089 148.984 Td
+(ESD) Tj
+ET
+BT
+/F0 11 Tf
+189.618 148.984 Td
+(creation) Tj
+ET
+BT
+/F0 11 Tf
+227.799 148.984 Td
+(fails.) Tj
+ET
+BT
+/F0 11 Tf
+87.274 118.206 Td
+(The) Tj
+ET
+BT
+/F0 11 Tf
+107.129 118.206 Td
+(command) Tj
+ET
+BT
+/F0 11 Tf
+153.263 118.206 Td
+(line) Tj
+ET
+BT
+/F0 11 Tf
+172.513 118.206 Td
+(syntax) Tj
+ET
+BT
+/F0 11 Tf
+203.984 118.206 Td
+(has) Tj
+ET
+BT
+/F0 11 Tf
+221.397 118.206 Td
+(changed) Tj
+ET
+BT
+/F0 11 Tf
+260.799 118.206 Td
+(starting) Tj
+ET
+BT
+/F0 11 Tf
+296.549 118.206 Td
+(with) Tj
+ET
+BT
+/F0 11 Tf
+318.857 118.206 Td
+(V4.0) Tj
+ET
+BT
+/F0 11 Tf
+343.299 118.206 Td
+(and) Tj
+ET
+BT
+/F0 11 Tf
+361.933 118.206 Td
+(is) Tj
+ET
+BT
+/F0 11 Tf
+372.020 118.206 Td
+(not) Tj
+ET
+BT
+/F0 11 Tf
+388.828 118.206 Td
+(100%) Tj
+ET
+BT
+/F0 11 Tf
+417.241 118.206 Td
+(compatible) Tj
+ET
+BT
+/F0 11 Tf
+468.875 118.206 Td
+(with) Tj
+ET
+BT
+/F0 11 Tf
+491.183 118.206 Td
+(V3.0.1) Tj
+ET
+BT
+/F0 11 Tf
+523.875 118.206 Td
+(and) Tj
+ET
+BT
+/F0 11 Tf
+87.274 102.817 Td
+(earlier.) Tj
+ET
+BT
+/F0 11 Tf
+123.618 102.817 Td
+(The) Tj
+ET
+BT
+/F0 11 Tf
+143.473 102.817 Td
+(functions) Tj
+ET
+BT
+/F0 11 Tf
+187.165 102.817 Td
+(provided) Tj
+ET
+BT
+/F0 11 Tf
+229.020 102.817 Td
+(by) Tj
+ET
+BT
+/F0 11 Tf
+242.770 102.817 Td
+(command) Tj
+ET
+BT
+/F0 11 Tf
+288.904 102.817 Td
+(line) Tj
+ET
+BT
+/F0 11 Tf
+308.154 102.817 Td
+(options) Tj
+ET
+BT
+/F0 11 Tf
+343.299 102.817 Td
+(and) Tj
+ET
+BT
+/F0 11 Tf
+361.933 102.817 Td
+(arguments) Tj
+ET
+BT
+/F0 11 Tf
+410.509 102.817 Td
+(are) Tj
+ET
+BT
+/F0 11 Tf
+426.690 102.817 Td
+(now) Tj
+ET
+BT
+/F0 11 Tf
+448.382 102.817 Td
+(provided) Tj
+ET
+BT
+/F0 11 Tf
+490.237 102.817 Td
+(by) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+68.024 739.233 Td
+(W11ARM_ESD2ISO\(1\)) Tj
+ET
+BT
+/F0 11 Tf
+435.490 739.233 Td
+(W11ARM_ESD2ISO\(1\)) Tj
+ET
+BT
+/F0 11 Tf
+68.024 36.245 Td
+(w11arm_esd2iso) Tj
+ET
+BT
+/F0 11 Tf
+145.321 36.245 Td
+(4.0.2) Tj
+ET
+BT
+/F0 11 Tf
+285.967 36.245 Td
+(July) Tj
+ET
+BT
+/F0 11 Tf
+307.054 36.245 Td
+(2023) Tj
+ET
+BT
+/F0 11 Tf
+435.490 36.245 Td
+(W11ARM_ESD2ISO\(1\)) Tj
+ET
+endstream
+endobj
+12 0 obj
+16541
+endobj
+13 0 obj
+<<
+/ProcSet [/PDF /Text]
+/Font <<
+/F0 3 0 R
+/F1 4 0 R
+/F2 5 0 R
+/F3 6 0 R
+>>
+>>
+endobj
+14 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources 13 0 R
+/Contents 11 0 R
+>>
+endobj
+15 0 obj
+<<
+/Length 16 0 R
+>>
+stream
+BT
+/F0 11 Tf
+87.274 702.988 Td
+(interactively) Tj
+ET
+BT
+/F0 11 Tf
+145.013 702.988 Td
+(prompting) Tj
+ET
+BT
+/F0 11 Tf
+193.600 702.988 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+209.792 702.988 Td
+(user) Tj
+ET
+BT
+/F0 11 Tf
+230.868 702.988 Td
+(during) Tj
+ET
+BT
+/F0 11 Tf
+262.339 702.988 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+278.531 702.988 Td
+(build) Tj
+ET
+BT
+/F0 11 Tf
+303.897 702.988 Td
+(process.) Tj
+ET
+BT
+/F0 11 Tf
+87.274 672.210 Td
+(The) Tj
+ET
+BT
+/F0 11 Tf
+107.129 672.210 Td
+(-a) Tj
+ET
+BT
+/F0 11 Tf
+118.426 672.210 Td
+(option) Tj
+ET
+BT
+/F0 11 Tf
+149.292 672.210 Td
+(has) Tj
+ET
+BT
+/F0 11 Tf
+166.705 672.210 Td
+(been) Tj
+ET
+BT
+/F0 11 Tf
+190.223 672.210 Td
+(removed) Tj
+ET
+BT
+/F0 11 Tf
+231.462 672.210 Td
+(as) Tj
+ET
+BT
+/F0 11 Tf
+243.375 672.210 Td
+(aria2c\(1\)) Tj
+ET
+BT
+/F0 11 Tf
+285.824 672.210 Td
+(is) Tj
+ET
+BT
+/F0 11 Tf
+295.911 672.210 Td
+(now) Tj
+ET
+BT
+/F0 11 Tf
+317.603 672.210 Td
+(used) Tj
+ET
+BT
+/F0 11 Tf
+340.516 672.210 Td
+(for) Tj
+ET
+BT
+/F0 11 Tf
+356.092 672.210 Td
+(all) Tj
+ET
+BT
+/F0 11 Tf
+369.842 672.210 Td
+(downloads.) Tj
+ET
+BT
+/F0 11 Tf
+87.274 641.432 Td
+(w11arm_esd2iso) Tj
+ET
+BT
+/F0 11 Tf
+164.571 641.432 Td
+(automatically) Tj
+ET
+BT
+/F0 11 Tf
+227.205 641.432 Td
+(enables) Tj
+ET
+BT
+/F0 11 Tf
+262.944 641.432 Td
+(retry) Tj
+ET
+BT
+/F0 11 Tf
+286.462 641.432 Td
+(and) Tj
+ET
+BT
+/F0 11 Tf
+305.096 641.432 Td
+(restart) Tj
+ET
+BT
+/F0 11 Tf
+335.335 641.432 Td
+(features) Tj
+ET
+BT
+/F0 11 Tf
+372.900 641.432 Td
+(that) Tj
+ET
+BT
+/F0 11 Tf
+392.150 641.432 Td
+(handle) Tj
+ET
+BT
+/F0 11 Tf
+424.226 641.432 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+440.418 641.432 Td
+(interruption) Tj
+ET
+BT
+/F0 11 Tf
+495.110 641.432 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+507.023 641.432 Td
+(ESD) Tj
+ET
+BT
+/F0 11 Tf
+87.274 626.043 Td
+(downloads) Tj
+ET
+BT
+/F0 11 Tf
+137.687 626.043 Td
+(from) Tj
+ET
+BT
+/F0 11 Tf
+161.821 626.043 Td
+(Microsoft) Tj
+ET
+BT
+/F0 11 Tf
+207.955 626.043 Td
+(due) Tj
+ET
+BT
+/F0 11 Tf
+226.589 626.043 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+237.897 626.043 Td
+(network) Tj
+ET
+BT
+/F0 11 Tf
+276.694 626.043 Td
+(connectivity) Tj
+ET
+BT
+/F0 11 Tf
+333.828 626.043 Td
+(issues.) Tj
+ET
+BT
+/F0 11 Tf
+368.357 626.043 Td
+(The) Tj
+ET
+BT
+/F0 11 Tf
+388.212 626.043 Td
+(utility) Tj
+ET
+BT
+/F0 11 Tf
+417.252 626.043 Td
+(will) Tj
+ET
+BT
+/F0 11 Tf
+437.118 626.043 Td
+(automatically) Tj
+ET
+BT
+/F0 11 Tf
+499.752 626.043 Td
+(retry) Tj
+ET
+BT
+/F0 11 Tf
+523.270 626.043 Td
+(an) Tj
+ET
+BT
+/F0 11 Tf
+87.274 610.654 Td
+(interrupted) Tj
+ET
+BT
+/F0 11 Tf
+138.292 610.654 Td
+(download) Tj
+ET
+BT
+/F0 11 Tf
+184.426 610.654 Td
+(up) Tj
+ET
+BT
+/F0 11 Tf
+198.176 610.654 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+209.484 610.654 Td
+(20) Tj
+ET
+BT
+/F0 11 Tf
+223.234 610.654 Td
+(times.) Tj
+ET
+BT
+/F0 11 Tf
+255.321 610.654 Td
+(After) Tj
+ET
+BT
+/F0 11 Tf
+281.281 610.654 Td
+(20) Tj
+ET
+BT
+/F0 11 Tf
+295.031 610.654 Td
+(retries,) Tj
+ET
+BT
+/F0 11 Tf
+328.020 610.654 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+344.212 610.654 Td
+(utility) Tj
+ET
+BT
+/F0 11 Tf
+373.252 610.654 Td
+(will) Tj
+ET
+BT
+/F0 11 Tf
+393.118 610.654 Td
+(exit,) Tj
+ET
+BT
+/F0 11 Tf
+415.118 610.654 Td
+(and) Tj
+ET
+BT
+/F0 11 Tf
+433.752 610.654 Td
+(will) Tj
+ET
+BT
+/F0 11 Tf
+453.618 610.654 Td
+(display) Tj
+ET
+BT
+/F0 11 Tf
+488.147 610.654 Td
+(a) Tj
+ET
+BT
+/F0 11 Tf
+495.781 610.654 Td
+(command) Tj
+ET
+BT
+/F0 11 Tf
+87.274 595.265 Td
+(\(containing) Tj
+ET
+BT
+/F0 11 Tf
+140.129 595.265 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+156.321 595.265 Td
+(-r) Tj
+ET
+BT
+/F0 11 Tf
+166.397 595.265 Td
+(option\)) Tj
+ET
+BT
+/F0 11 Tf
+200.926 595.265 Td
+(that) Tj
+ET
+BT
+/F0 11 Tf
+220.176 595.265 Td
+(can) Tj
+ET
+BT
+/F0 11 Tf
+238.194 595.265 Td
+(be) Tj
+ET
+BT
+/F0 11 Tf
+251.328 595.265 Td
+(copy/pasted) Tj
+ET
+BT
+/F0 11 Tf
+306.625 595.265 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+317.933 595.265 Td
+(resume) Tj
+ET
+BT
+/F0 11 Tf
+352.451 595.265 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+368.643 595.265 Td
+(ESD) Tj
+ET
+BT
+/F0 11 Tf
+392.172 595.265 Td
+(download.) Tj
+ET
+BT
+/F0 11 Tf
+87.274 564.487 Td
+(The) Tj
+ET
+BT
+/F0 11 Tf
+107.129 564.487 Td
+(-r) Tj
+ET
+BT
+/F0 11 Tf
+117.205 564.487 Td
+(option) Tj
+ET
+BT
+/F0 11 Tf
+148.071 564.487 Td
+(can) Tj
+ET
+BT
+/F0 11 Tf
+166.089 564.487 Td
+(be) Tj
+ET
+BT
+/F0 11 Tf
+179.223 564.487 Td
+(used) Tj
+ET
+BT
+/F0 11 Tf
+202.136 564.487 Td
+(as) Tj
+ET
+BT
+/F0 11 Tf
+214.049 564.487 Td
+(many) Tj
+ET
+BT
+/F0 11 Tf
+241.241 564.487 Td
+(times) Tj
+ET
+BT
+/F0 11 Tf
+267.828 564.487 Td
+(as) Tj
+ET
+BT
+/F0 11 Tf
+279.741 564.487 Td
+(necessary) Tj
+ET
+BT
+/F0 11 Tf
+325.248 564.487 Td
+(as) Tj
+ET
+BT
+/F0 11 Tf
+337.161 564.487 Td
+(directed) Tj
+ET
+BT
+/F0 11 Tf
+375.342 564.487 Td
+(by) Tj
+ET
+BT
+/F0 11 Tf
+389.092 564.487 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+405.284 564.487 Td
+(utility) Tj
+ET
+BT
+/F0 11 Tf
+434.324 564.487 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+445.632 564.487 Td
+(complete) Tj
+ET
+BT
+/F0 11 Tf
+488.708 564.487 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+87.274 549.098 Td
+(download.) Tj
+ET
+BT
+/F0 11 Tf
+138.908 549.098 Td
+(In) Tj
+ET
+BT
+/F0 11 Tf
+150.821 549.098 Td
+(all) Tj
+ET
+BT
+/F0 11 Tf
+164.571 549.098 Td
+(honesty,) Tj
+ET
+BT
+/F0 11 Tf
+204.292 549.098 Td
+(it) Tj
+ET
+BT
+/F0 11 Tf
+213.158 549.098 Td
+(shouldn't) Tj
+ET
+BT
+/F0 11 Tf
+257.466 549.098 Td
+(need) Tj
+ET
+BT
+/F0 11 Tf
+280.984 549.098 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+292.292 549.098 Td
+(be) Tj
+ET
+BT
+/F0 11 Tf
+305.426 549.098 Td
+(used) Tj
+ET
+BT
+/F0 11 Tf
+328.339 549.098 Td
+(more) Tj
+ET
+BT
+/F0 11 Tf
+353.694 549.098 Td
+(than) Tj
+ET
+BT
+/F0 11 Tf
+375.386 549.098 Td
+(once) Tj
+ET
+BT
+/F0 11 Tf
+398.904 549.098 Td
+(unless) Tj
+ET
+BT
+/F0 11 Tf
+429.154 549.098 Td
+(you) Tj
+ET
+BT
+/F0 11 Tf
+448.404 549.098 Td
+(have) Tj
+ET
+BT
+/F0 11 Tf
+471.922 549.098 Td
+(a) Tj
+ET
+BT
+/F0 11 Tf
+479.556 549.098 Td
+(really,) Tj
+ET
+BT
+/F0 11 Tf
+510.103 549.098 Td
+(really) Tj
+ET
+BT
+/F0 11 Tf
+87.274 533.709 Td
+(bad) Tj
+ET
+BT
+/F0 11 Tf
+105.908 533.709 Td
+(network) Tj
+ET
+BT
+/F0 11 Tf
+144.705 533.709 Td
+(connection.) Tj
+ET
+BT
+/F0 11 Tf
+201.223 533.709 Td
+(Each) Tj
+ET
+BT
+/F0 11 Tf
+225.962 533.709 Td
+(restart) Tj
+ET
+BT
+/F0 11 Tf
+256.201 533.709 Td
+(attempt) Tj
+ET
+BT
+/F0 11 Tf
+291.951 533.709 Td
+(using) Tj
+ET
+BT
+/F0 11 Tf
+318.538 533.709 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+334.730 533.709 Td
+(-r) Tj
+ET
+BT
+/F0 11 Tf
+344.806 533.709 Td
+(option) Tj
+ET
+BT
+/F0 11 Tf
+375.672 533.709 Td
+(will) Tj
+ET
+BT
+/F0 11 Tf
+395.538 533.709 Td
+(resume) Tj
+ET
+BT
+/F0 11 Tf
+430.056 533.709 Td
+(a) Tj
+ET
+BT
+/F0 11 Tf
+437.690 533.709 Td
+(download) Tj
+ET
+BT
+/F0 11 Tf
+483.824 533.709 Td
+(from) Tj
+ET
+BT
+/F0 11 Tf
+507.958 533.709 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+87.274 518.320 Td
+(point) Tj
+ET
+BT
+/F0 11 Tf
+112.640 518.320 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+124.553 518.320 Td
+(interruption) Tj
+ET
+BT
+/F0 11 Tf
+179.245 518.320 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+191.158 518.320 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+207.350 518.320 Td
+(last) Tj
+ET
+BT
+/F0 11 Tf
+225.379 518.320 Td
+(execution) Tj
+ET
+BT
+/F0 11 Tf
+270.897 518.320 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+282.810 518.320 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+299.002 518.320 Td
+(utility.) Tj
+ET
+BT
+/F0 11 Tf
+87.274 487.542 Td
+(w11arm_esd2iso) Tj
+ET
+BT
+/F0 11 Tf
+164.571 487.542 Td
+(will) Tj
+ET
+BT
+/F0 11 Tf
+184.437 487.542 Td
+(verify) Tj
+ET
+BT
+/F0 11 Tf
+213.455 487.542 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+229.647 487.542 Td
+(SHA1) Tj
+ET
+BT
+/F0 11 Tf
+259.897 487.542 Td
+(hash) Tj
+ET
+BT
+/F0 11 Tf
+282.810 487.542 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+294.723 487.542 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+310.915 487.542 Td
+(downloaded) Tj
+ET
+BT
+/F0 11 Tf
+367.433 487.542 Td
+(ESD) Tj
+ET
+BT
+/F0 11 Tf
+390.962 487.542 Td
+(file) Tj
+ET
+BT
+/F0 11 Tf
+408.375 487.542 Td
+(against) Tj
+ET
+BT
+/F0 11 Tf
+442.288 487.542 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+458.480 487.542 Td
+(hash) Tj
+ET
+BT
+/F0 11 Tf
+481.393 487.542 Td
+(value) Tj
+ET
+BT
+/F0 11 Tf
+87.274 472.153 Td
+(provided) Tj
+ET
+BT
+/F0 11 Tf
+129.129 472.153 Td
+(by) Tj
+ET
+BT
+/F0 11 Tf
+142.879 472.153 Td
+(Microsoft.) Tj
+ET
+BT
+/F0 11 Tf
+194.513 472.153 Td
+(If) Tj
+ET
+BT
+/F0 11 Tf
+204.589 472.153 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+220.781 472.153 Td
+(verification) Tj
+ET
+BT
+/F0 11 Tf
+274.241 472.153 Td
+(fails) Tj
+ET
+BT
+/F0 11 Tf
+295.933 472.153 Td
+(\(indicating) Tj
+ET
+BT
+/F0 11 Tf
+346.346 472.153 Td
+(a) Tj
+ET
+BT
+/F0 11 Tf
+353.980 472.153 Td
+(corrupt) Tj
+ET
+BT
+/F0 11 Tf
+388.498 472.153 Td
+(download\),) Tj
+ET
+BT
+/F0 11 Tf
+441.045 472.153 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+457.237 472.153 Td
+(utility) Tj
+ET
+BT
+/F0 11 Tf
+486.277 472.153 Td
+(will) Tj
+ET
+BT
+/F0 11 Tf
+506.143 472.153 Td
+(exit) Tj
+ET
+BT
+/F0 11 Tf
+87.274 456.764 Td
+(with) Tj
+ET
+BT
+/F0 11 Tf
+109.582 456.764 Td
+(an) Tj
+ET
+BT
+/F0 11 Tf
+122.716 456.764 Td
+(error) Tj
+ET
+BT
+/F0 11 Tf
+146.839 456.764 Td
+(message.) Tj
+ET
+BT
+/F0 11 Tf
+87.274 425.986 Td
+(More) Tj
+ET
+BT
+/F0 11 Tf
+113.850 425.986 Td
+(extensive) Tj
+ET
+BT
+/F0 11 Tf
+158.147 425.986 Td
+(guidance) Tj
+ET
+BT
+/F0 11 Tf
+200.607 425.986 Td
+(on) Tj
+ET
+BT
+/F0 11 Tf
+214.357 425.986 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+230.549 425.986 Td
+(use) Tj
+ET
+BT
+/F0 11 Tf
+247.962 425.986 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+259.875 425.986 Td
+(w11arm_esd2iso) Tj
+ET
+BT
+/F0 11 Tf
+337.172 425.986 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+348.480 425.986 Td
+(create) Tj
+ET
+BT
+/F0 11 Tf
+377.487 425.986 Td
+(Windows) Tj
+ET
+BT
+/F0 11 Tf
+422.400 425.986 Td
+(11) Tj
+ET
+BT
+/F0 11 Tf
+436.150 425.986 Td
+(ARM) Tj
+ET
+BT
+/F0 11 Tf
+463.958 425.986 Td
+(virtual) Tj
+ET
+BT
+/F0 11 Tf
+495.429 425.986 Td
+(machines) Tj
+ET
+BT
+/F0 11 Tf
+87.274 410.597 Td
+(with) Tj
+ET
+BT
+/F0 11 Tf
+109.582 410.597 Td
+(VMware) Tj
+ET
+BT
+/F0 11 Tf
+151.426 410.597 Td
+(Fusion) Tj
+ET
+BT
+/F0 11 Tf
+184.129 410.597 Td
+(13) Tj
+ET
+BT
+/F0 11 Tf
+197.879 410.597 Td
+(on) Tj
+ET
+BT
+/F0 11 Tf
+211.629 410.597 Td
+(Apple) Tj
+ET
+BT
+/F0 11 Tf
+241.263 410.597 Td
+(Silicon) Tj
+ET
+BT
+/F0 11 Tf
+275.187 410.597 Td
+(can) Tj
+ET
+BT
+/F0 11 Tf
+293.205 410.597 Td
+(be) Tj
+ET
+BT
+/F0 11 Tf
+306.339 410.597 Td
+(found) Tj
+ET
+BT
+/F0 11 Tf
+334.752 410.597 Td
+(in) Tj
+ET
+BT
+/F0 11 Tf
+346.060 410.597 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+362.252 410.597 Td
+(Unofficial) Tj
+ET
+BT
+/F0 11 Tf
+410.212 410.597 Td
+(Fusion) Tj
+ET
+BT
+/F0 11 Tf
+442.915 410.597 Td
+(13) Tj
+ET
+BT
+/F0 11 Tf
+456.665 410.597 Td
+(for) Tj
+ET
+BT
+/F0 11 Tf
+472.241 410.597 Td
+(Apple) Tj
+ET
+BT
+/F0 11 Tf
+501.875 410.597 Td
+(Silicon) Tj
+ET
+BT
+/F0 11 Tf
+87.274 395.208 Td
+(Companion) Tj
+ET
+BT
+/F0 11 Tf
+141.361 395.208 Td
+(Guide) Tj
+ET
+BT
+/F0 11 Tf
+170.995 395.208 Td
+(which) Tj
+ET
+BT
+/F0 11 Tf
+200.629 395.208 Td
+(can) Tj
+ET
+BT
+/F0 11 Tf
+218.647 395.208 Td
+(be) Tj
+ET
+BT
+/F0 11 Tf
+231.781 395.208 Td
+(found) Tj
+ET
+BT
+/F0 11 Tf
+260.194 395.208 Td
+(at) Tj
+ET
+BT
+/F0 11 Tf
+270.886 395.208 Td
+(https://communities.vmware.com/t5/VMware-Fusion-) Tj
+ET
+BT
+/F0 11 Tf
+87.274 379.819 Td
+(Documents/The-Unofficial-Fusion-13-for-Apple-Silicon-Companion-Guide/ta-p/2939907) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+68.024 349.041 Td
+(EXAMPLES) Tj
+ET
+BT
+/F1 11 Tf
+87.274 333.652 Td
+(./w11arm) Tj
+ET
+/F2 11 Tf
+BT
+/F2 11 Tf
+131.571 333.652 Td
+(_) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+137.071 333.652 Td
+(esd2iso) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+106.524 318.263 Td
+(Download) Tj
+ET
+BT
+/F0 11 Tf
+155.100 318.263 Td
+(and) Tj
+ET
+BT
+/F0 11 Tf
+173.734 318.263 Td
+(build) Tj
+ET
+BT
+/F0 11 Tf
+199.100 318.263 Td
+(a) Tj
+ET
+BT
+/F0 11 Tf
+206.734 318.263 Td
+(Windows) Tj
+ET
+BT
+/F0 11 Tf
+251.647 318.263 Td
+(11) Tj
+ET
+BT
+/F0 11 Tf
+265.397 318.263 Td
+(ARM) Tj
+ET
+BT
+/F0 11 Tf
+293.205 318.263 Td
+(ISO.) Tj
+ET
+BT
+/F0 11 Tf
+319.176 318.263 Td
+(The) Tj
+ET
+BT
+/F0 11 Tf
+339.031 318.263 Td
+(user) Tj
+ET
+BT
+/F0 11 Tf
+360.107 318.263 Td
+(will) Tj
+ET
+BT
+/F0 11 Tf
+379.973 318.263 Td
+(be) Tj
+ET
+BT
+/F0 11 Tf
+393.107 318.263 Td
+(prompted) Tj
+ET
+BT
+/F0 11 Tf
+438.020 318.263 Td
+(for) Tj
+ET
+BT
+/F0 11 Tf
+453.596 318.263 Td
+(both) Tj
+ET
+BT
+/F0 11 Tf
+475.904 318.263 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+492.096 318.263 Td
+(type) Tj
+ET
+BT
+/F0 11 Tf
+513.788 318.263 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+525.701 318.263 Td
+(ISO) Tj
+ET
+BT
+/F0 11 Tf
+106.524 302.874 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+117.832 302.874 Td
+(create,) Tj
+ET
+BT
+/F0 11 Tf
+149.589 302.874 Td
+(and) Tj
+ET
+BT
+/F0 11 Tf
+168.223 302.874 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+184.415 302.874 Td
+(language) Tj
+ET
+BT
+/F0 11 Tf
+226.875 302.874 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+238.788 302.874 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+254.980 302.874 Td
+(ISO.) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+87.274 272.096 Td
+(./w11arm) Tj
+ET
+/F2 11 Tf
+BT
+/F2 11 Tf
+131.571 272.096 Td
+(_) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+137.071 272.096 Td
+(esd2iso) Tj
+ET
+BT
+/F1 11 Tf
+173.437 272.096 Td
+(-r) Tj
+ET
+BT
+/F1 11 Tf
+184.734 272.096 Td
+(./esd2iso) Tj
+ET
+/F2 11 Tf
+BT
+/F2 11 Tf
+224.158 272.096 Td
+(_) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+229.658 272.096 Td
+(work.abcdef) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+106.524 256.707 Td
+(Restart) Tj
+ET
+BT
+/F0 11 Tf
+140.437 256.707 Td
+(a) Tj
+ET
+BT
+/F0 11 Tf
+148.071 256.707 Td
+(interrupted) Tj
+ET
+BT
+/F0 11 Tf
+199.089 256.707 Td
+(download) Tj
+ET
+BT
+/F0 11 Tf
+245.223 256.707 Td
+(from) Tj
+ET
+BT
+/F0 11 Tf
+269.357 256.707 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+285.549 256.707 Td
+(point) Tj
+ET
+BT
+/F0 11 Tf
+310.915 256.707 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+322.828 256.707 Td
+(interruption) Tj
+ET
+BT
+/F0 11 Tf
+377.520 256.707 Td
+(using) Tj
+ET
+BT
+/F0 11 Tf
+404.107 256.707 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+420.299 256.707 Td
+(work) Tj
+ET
+BT
+/F0 11 Tf
+445.654 256.707 Td
+(directory) Tj
+ET
+BT
+/F0 11 Tf
+106.524 241.318 Td
+(./esd2iso_work.abcdef) Tj
+ET
+BT
+/F0 11 Tf
+208.252 241.318 Td
+(left) Tj
+ET
+BT
+/F0 11 Tf
+225.665 241.318 Td
+(behind) Tj
+ET
+BT
+/F0 11 Tf
+258.357 241.318 Td
+(from) Tj
+ET
+BT
+/F0 11 Tf
+282.491 241.318 Td
+(a) Tj
+ET
+BT
+/F0 11 Tf
+290.125 241.318 Td
+(previous) Tj
+ET
+BT
+/F0 11 Tf
+330.759 241.318 Td
+(run) Tj
+ET
+BT
+/F0 11 Tf
+348.172 241.318 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+360.085 241.318 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+376.277 241.318 Td
+(utility.) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+68.024 210.540 Td
+(SEE) Tj
+ET
+BT
+/F1 11 Tf
+91.564 210.540 Td
+(ALSO) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+87.274 195.151 Td
+(wimlib-imagex\(1\),) Tj
+ET
+BT
+/F0 11 Tf
+172.821 195.151 Td
+(aria2c\(1\),) Tj
+ET
+BT
+/F0 11 Tf
+218.020 195.151 Td
+(hdiutil\(1\)) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+68.024 164.373 Td
+(CREDITS) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+87.274 148.984 Td
+(Information) Tj
+ET
+BT
+/F0 11 Tf
+142.571 148.984 Td
+(for) Tj
+ET
+BT
+/F0 11 Tf
+158.147 148.984 Td
+(obtaining) Tj
+ET
+BT
+/F0 11 Tf
+202.455 148.984 Td
+(Microsoft) Tj
+ET
+BT
+/F0 11 Tf
+248.589 148.984 Td
+(ESD) Tj
+ET
+BT
+/F0 11 Tf
+272.118 148.984 Td
+(distributions) Tj
+ET
+BT
+/F0 11 Tf
+329.879 148.984 Td
+(and) Tj
+ET
+BT
+/F0 11 Tf
+348.513 148.984 Td
+(Microsoft) Tj
+ET
+BT
+/F0 11 Tf
+394.647 148.984 Td
+(Product) Tj
+ET
+BT
+/F0 11 Tf
+431.618 148.984 Td
+(catalog) Tj
+ET
+BT
+/F0 11 Tf
+466.136 148.984 Td
+(from) Tj
+ET
+BT
+/F0 11 Tf
+490.270 148.984 Td
+(b0gdanw) Tj
+ET
+BT
+/F0 11 Tf
+87.274 133.595 Td
+("ESD) Tj
+ET
+BT
+/F0 11 Tf
+115.291 133.595 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+126.599 133.595 Td
+(ISO) Tj
+ET
+BT
+/F0 11 Tf
+147.070 133.595 Td
+(on) Tj
+ET
+BT
+/F0 11 Tf
+160.820 133.595 Td
+(macOS.txt") Tj
+ET
+BT
+/F0 11 Tf
+214.808 133.595 Td
+(https://gist.github.com/b0gdanw/e36ea84828dbd19e03eff6158f1fc77c) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+68.024 102.817 Td
+(LICENSE) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+68.024 739.233 Td
+(W11ARM_ESD2ISO\(1\)) Tj
+ET
+BT
+/F0 11 Tf
+435.490 739.233 Td
+(W11ARM_ESD2ISO\(1\)) Tj
+ET
+BT
+/F0 11 Tf
+68.024 36.245 Td
+(w11arm_esd2iso) Tj
+ET
+BT
+/F0 11 Tf
+145.321 36.245 Td
+(4.0.2) Tj
+ET
+BT
+/F0 11 Tf
+285.967 36.245 Td
+(July) Tj
+ET
+BT
+/F0 11 Tf
+307.054 36.245 Td
+(2023) Tj
+ET
+BT
+/F0 11 Tf
+435.490 36.245 Td
+(W11ARM_ESD2ISO\(1\)) Tj
+ET
+endstream
+endobj
+16 0 obj
+14820
+endobj
+17 0 obj
+<<
+/ProcSet [/PDF /Text]
+/Font <<
+/F0 3 0 R
+/F1 4 0 R
+/F2 5 0 R
+/F3 6 0 R
+>>
+>>
+endobj
+18 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources 17 0 R
+/Contents 15 0 R
+>>
+endobj
+19 0 obj
+<<
+/Length 20 0 R
+>>
+stream
+BT
+/F0 11 Tf
+87.274 702.988 Td
+(This) Tj
+ET
+BT
+/F0 11 Tf
+109.582 702.988 Td
+(program) Tj
+ET
+BT
+/F0 11 Tf
+149.600 702.988 Td
+(is) Tj
+ET
+BT
+/F0 11 Tf
+159.687 702.988 Td
+(free) Tj
+ET
+BT
+/F0 11 Tf
+179.531 702.988 Td
+(software;) Tj
+ET
+BT
+/F0 11 Tf
+223.212 702.988 Td
+(you) Tj
+ET
+BT
+/F0 11 Tf
+242.462 702.988 Td
+(can) Tj
+ET
+BT
+/F0 11 Tf
+260.480 702.988 Td
+(redistribute) Tj
+ET
+BT
+/F0 11 Tf
+313.335 702.988 Td
+(it) Tj
+ET
+BT
+/F0 11 Tf
+322.201 702.988 Td
+(and/or) Tj
+ET
+BT
+/F0 11 Tf
+353.056 702.988 Td
+(modify) Tj
+ET
+BT
+/F0 11 Tf
+387.585 702.988 Td
+(it) Tj
+ET
+BT
+/F0 11 Tf
+396.451 702.988 Td
+(under) Tj
+ET
+BT
+/F0 11 Tf
+424.248 702.988 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+440.440 702.988 Td
+(terms) Tj
+ET
+BT
+/F0 11 Tf
+467.632 702.988 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+479.545 702.988 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+495.737 702.988 Td
+(GNU) Tj
+ET
+BT
+/F0 11 Tf
+87.274 687.599 Td
+(General) Tj
+ET
+BT
+/F0 11 Tf
+124.839 687.599 Td
+(Public) Tj
+ET
+BT
+/F0 11 Tf
+155.705 687.599 Td
+(License) Tj
+ET
+BT
+/F0 11 Tf
+192.665 687.599 Td
+(as) Tj
+ET
+BT
+/F0 11 Tf
+204.578 687.599 Td
+(published) Tj
+ET
+BT
+/F0 11 Tf
+250.107 687.599 Td
+(by) Tj
+ET
+BT
+/F0 11 Tf
+263.857 687.599 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+280.049 687.599 Td
+(Free) Tj
+ET
+BT
+/F0 11 Tf
+302.346 687.599 Td
+(Software) Tj
+ET
+BT
+/F0 11 Tf
+344.806 687.599 Td
+(Foundation;) Tj
+ET
+BT
+/F0 11 Tf
+400.730 687.599 Td
+(either) Tj
+ET
+BT
+/F0 11 Tf
+428.527 687.599 Td
+(version) Tj
+ET
+BT
+/F0 11 Tf
+463.661 687.599 Td
+(2) Tj
+ET
+BT
+/F0 11 Tf
+471.911 687.599 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+483.824 687.599 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+500.016 687.599 Td
+(License,) Tj
+ET
+BT
+/F0 11 Tf
+87.274 672.210 Td
+(or) Tj
+ET
+BT
+/F0 11 Tf
+99.187 672.210 Td
+(\(at) Tj
+ET
+BT
+/F0 11 Tf
+113.542 672.210 Td
+(your) Tj
+ET
+BT
+/F0 11 Tf
+136.455 672.210 Td
+(option\)) Tj
+ET
+BT
+/F0 11 Tf
+170.984 672.210 Td
+(any) Tj
+ET
+BT
+/F0 11 Tf
+189.618 672.210 Td
+(later) Tj
+ET
+BT
+/F0 11 Tf
+211.915 672.210 Td
+(version.) Tj
+ET
+BT
+/F0 11 Tf
+87.274 641.432 Td
+(This) Tj
+ET
+BT
+/F0 11 Tf
+109.582 641.432 Td
+(program) Tj
+ET
+BT
+/F0 11 Tf
+149.600 641.432 Td
+(is) Tj
+ET
+BT
+/F0 11 Tf
+159.687 641.432 Td
+(distributed) Tj
+ET
+BT
+/F0 11 Tf
+209.495 641.432 Td
+(in) Tj
+ET
+BT
+/F0 11 Tf
+220.803 641.432 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+236.995 641.432 Td
+(hope) Tj
+ET
+BT
+/F0 11 Tf
+261.129 641.432 Td
+(that) Tj
+ET
+BT
+/F0 11 Tf
+280.379 641.432 Td
+(it) Tj
+ET
+BT
+/F0 11 Tf
+289.245 641.432 Td
+(will) Tj
+ET
+BT
+/F0 11 Tf
+309.111 641.432 Td
+(be) Tj
+ET
+BT
+/F0 11 Tf
+322.245 641.432 Td
+(useful,) Tj
+ET
+BT
+/F0 11 Tf
+354.629 641.432 Td
+(but) Tj
+ET
+BT
+/F0 11 Tf
+371.437 641.432 Td
+(WITHOUT) Tj
+ET
+BT
+/F0 11 Tf
+425.502 641.432 Td
+(ANY) Tj
+ET
+BT
+/F0 11 Tf
+452.078 641.432 Td
+(WARRANTY;) Tj
+ET
+BT
+/F0 11 Tf
+87.274 626.043 Td
+(without) Tj
+ET
+BT
+/F0 11 Tf
+123.640 626.043 Td
+(even) Tj
+ET
+BT
+/F0 11 Tf
+147.158 626.043 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+163.350 626.043 Td
+(implied) Tj
+ET
+BT
+/F0 11 Tf
+199.716 626.043 Td
+(warranty) Tj
+ET
+BT
+/F0 11 Tf
+241.560 626.043 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+253.473 626.043 Td
+(MERCHANTABILITY) Tj
+ET
+BT
+/F0 11 Tf
+361.933 626.043 Td
+(or) Tj
+ET
+BT
+/F0 11 Tf
+373.846 626.043 Td
+(FITNESS) Tj
+ET
+BT
+/F0 11 Tf
+419.991 626.043 Td
+(FOR) Tj
+ET
+BT
+/F0 11 Tf
+444.136 626.043 Td
+(A) Tj
+ET
+BT
+/F0 11 Tf
+454.828 626.043 Td
+(PARTICULAR) Tj
+ET
+BT
+/F0 11 Tf
+87.274 610.654 Td
+(PURPOSE.) Tj
+ET
+BT
+/F0 11 Tf
+143.814 610.654 Td
+(See) Tj
+ET
+BT
+/F0 11 Tf
+162.448 610.654 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+178.640 610.654 Td
+(GNU) Tj
+ET
+BT
+/F0 11 Tf
+205.216 610.654 Td
+(General) Tj
+ET
+BT
+/F0 11 Tf
+242.781 610.654 Td
+(Public) Tj
+ET
+BT
+/F0 11 Tf
+273.647 610.654 Td
+(License) Tj
+ET
+BT
+/F0 11 Tf
+310.607 610.654 Td
+(for) Tj
+ET
+BT
+/F0 11 Tf
+326.183 610.654 Td
+(more) Tj
+ET
+BT
+/F0 11 Tf
+351.538 610.654 Td
+(details.) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+68.024 579.876 Td
+(SUPPORT) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+87.274 564.487 Td
+(No) Tj
+ET
+BT
+/F0 11 Tf
+103.466 564.487 Td
+(production) Tj
+ET
+BT
+/F0 11 Tf
+153.879 564.487 Td
+(level) Tj
+ET
+BT
+/F0 11 Tf
+178.013 564.487 Td
+(support) Tj
+ET
+BT
+/F0 11 Tf
+213.763 564.487 Td
+(is) Tj
+ET
+BT
+/F0 11 Tf
+223.850 564.487 Td
+(available) Tj
+ET
+BT
+/F0 11 Tf
+266.310 564.487 Td
+(for) Tj
+ET
+BT
+/F0 11 Tf
+281.886 564.487 Td
+(this) Tj
+ET
+BT
+/F0 11 Tf
+300.531 564.487 Td
+(script.) Tj
+ET
+BT
+/F0 11 Tf
+333.223 564.487 Td
+(The) Tj
+ET
+BT
+/F0 11 Tf
+353.078 564.487 Td
+(author) Tj
+ET
+BT
+/F0 11 Tf
+383.933 564.487 Td
+(provides) Tj
+ET
+BT
+/F0 11 Tf
+424.567 564.487 Td
+(best) Tj
+ET
+BT
+/F0 11 Tf
+445.038 564.487 Td
+(effort) Tj
+ET
+BT
+/F0 11 Tf
+472.219 564.487 Td
+(response) Tj
+ET
+BT
+/F0 11 Tf
+513.458 564.487 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+524.766 564.487 Td
+(any) Tj
+ET
+BT
+/F0 11 Tf
+87.274 549.098 Td
+(issues) Tj
+ET
+BT
+/F0 11 Tf
+116.303 549.098 Td
+(with) Tj
+ET
+BT
+/F0 11 Tf
+138.611 549.098 Td
+(no) Tj
+ET
+BT
+/F0 11 Tf
+152.361 549.098 Td
+(service) Tj
+ET
+BT
+/F0 11 Tf
+186.263 549.098 Td
+(level) Tj
+ET
+BT
+/F0 11 Tf
+210.397 549.098 Td
+(targets.) Tj
+ET
+BT
+/F0 11 Tf
+87.274 518.320 Td
+(Any) Tj
+ET
+BT
+/F0 11 Tf
+108.966 518.320 Td
+(questions) Tj
+ET
+BT
+/F0 11 Tf
+153.274 518.320 Td
+(about) Tj
+ET
+BT
+/F0 11 Tf
+180.466 518.320 Td
+(this) Tj
+ET
+BT
+/F0 11 Tf
+199.111 518.320 Td
+(utility) Tj
+ET
+BT
+/F0 11 Tf
+228.151 518.320 Td
+(should) Tj
+ET
+BT
+/F0 11 Tf
+260.238 518.320 Td
+(be) Tj
+ET
+BT
+/F0 11 Tf
+273.372 518.320 Td
+(posted) Tj
+ET
+BT
+/F0 11 Tf
+304.843 518.320 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+316.151 518.320 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+332.343 518.320 Td
+(VMware) Tj
+ET
+BT
+/F0 11 Tf
+374.187 518.320 Td
+(Fusion) Tj
+ET
+BT
+/F0 11 Tf
+406.890 518.320 Td
+(Discussions) Tj
+ET
+BT
+/F0 11 Tf
+462.198 518.320 Td
+(forum:) Tj
+ET
+BT
+/F0 11 Tf
+87.274 502.931 Td
+(https://communities.vmware.com/t5/VMware-Fusion/ct-p/3005-home) Tj
+ET
+BT
+/F0 11 Tf
+87.274 472.153 Td
+(If) Tj
+ET
+BT
+/F0 11 Tf
+97.350 472.153 Td
+(you) Tj
+ET
+BT
+/F0 11 Tf
+116.600 472.153 Td
+(find) Tj
+ET
+BT
+/F0 11 Tf
+137.071 472.153 Td
+(an) Tj
+ET
+BT
+/F0 11 Tf
+150.205 472.153 Td
+(error) Tj
+ET
+BT
+/F0 11 Tf
+174.328 472.153 Td
+(please) Tj
+ET
+BT
+/F0 11 Tf
+204.567 472.153 Td
+(run) Tj
+ET
+BT
+/F0 11 Tf
+221.980 472.153 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+238.172 472.153 Td
+(utility) Tj
+ET
+BT
+/F0 11 Tf
+267.212 472.153 Td
+(with) Tj
+ET
+BT
+/F0 11 Tf
+289.520 472.153 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+305.712 472.153 Td
+(-v) Tj
+ET
+BT
+/F0 11 Tf
+317.625 472.153 Td
+(option,) Tj
+ET
+BT
+/F0 11 Tf
+351.241 472.153 Td
+(then) Tj
+ET
+BT
+/F0 11 Tf
+372.933 472.153 Td
+(attach) Tj
+ET
+BT
+/F0 11 Tf
+401.951 472.153 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+418.143 472.153 Td
+(entire) Tj
+ET
+BT
+/F0 11 Tf
+445.940 472.153 Td
+(output) Tj
+ET
+BT
+/F0 11 Tf
+476.806 472.153 Td
+(of) Tj
+ET
+BT
+/F0 11 Tf
+488.719 472.153 Td
+(the) Tj
+ET
+BT
+/F0 11 Tf
+504.911 472.153 Td
+(utility) Tj
+ET
+BT
+/F0 11 Tf
+533.951 472.153 Td
+(in) Tj
+ET
+BT
+/F0 11 Tf
+87.274 456.764 Td
+(a) Tj
+ET
+BT
+/F0 11 Tf
+94.908 456.764 Td
+(zip) Tj
+ET
+BT
+/F0 11 Tf
+111.100 456.764 Td
+(file) Tj
+ET
+BT
+/F0 11 Tf
+128.513 456.764 Td
+(to) Tj
+ET
+BT
+/F0 11 Tf
+139.821 456.764 Td
+(your) Tj
+ET
+BT
+/F0 11 Tf
+162.734 456.764 Td
+(post.) Tj
+ET
+/F1 11 Tf
+BT
+/F1 11 Tf
+68.024 425.986 Td
+(AUTHORS) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+87.274 410.597 Td
+(Paul) Tj
+ET
+BT
+/F0 11 Tf
+109.582 410.597 Td
+(Rockwell) Tj
+ET
+BT
+/F0 11 Tf
+154.495 410.597 Td
+(\(@Technogeezer) Tj
+ET
+BT
+/F0 11 Tf
+232.727 410.597 Td
+(on) Tj
+ET
+BT
+/F0 11 Tf
+246.477 410.597 Td
+(VMware) Tj
+ET
+BT
+/F0 11 Tf
+288.321 410.597 Td
+(Fusion) Tj
+ET
+BT
+/F0 11 Tf
+321.024 410.597 Td
+(forum\).) Tj
+ET
+/F0 11 Tf
+BT
+/F0 11 Tf
+68.024 739.233 Td
+(W11ARM_ESD2ISO\(1\)) Tj
+ET
+BT
+/F0 11 Tf
+435.490 739.233 Td
+(W11ARM_ESD2ISO\(1\)) Tj
+ET
+BT
+/F0 11 Tf
+68.024 36.245 Td
+(w11arm_esd2iso) Tj
+ET
+BT
+/F0 11 Tf
+145.321 36.245 Td
+(4.0.2) Tj
+ET
+BT
+/F0 11 Tf
+285.967 36.245 Td
+(July) Tj
+ET
+BT
+/F0 11 Tf
+307.054 36.245 Td
+(2023) Tj
+ET
+BT
+/F0 11 Tf
+435.490 36.245 Td
+(W11ARM_ESD2ISO\(1\)) Tj
+ET
+endstream
+endobj
+20 0 obj
+7537
+endobj
+21 0 obj
+<<
+/ProcSet [/PDF /Text]
+/Font <<
+/F0 3 0 R
+/F1 4 0 R
+/F2 5 0 R
+/F3 6 0 R
+>>
+>>
+endobj
+22 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources 21 0 R
+/Contents 19 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/MediaBox [0 0 612 790]
+/Count 4
+/Kids [ 10 0 R 14 0 R 18 0 R 22 0 R]
+>>
+endobj
+23 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+xref
+0 24
+0000000000 65535 f 
+0000000009 00000 n 
+0000053026 00000 n 
+0000000030 00000 n 
+0000000112 00000 n 
+0000000193 00000 n 
+0000000276 00000 n 
+0000000363 00000 n 
+0000013167 00000 n 
+0000013188 00000 n 
+0000013283 00000 n 
+0000013364 00000 n 
+0000029959 00000 n 
+0000029981 00000 n 
+0000030077 00000 n 
+0000030160 00000 n 
+0000045034 00000 n 
+0000045056 00000 n 
+0000045152 00000 n 
+0000045235 00000 n 
+0000052826 00000 n 
+0000052847 00000 n 
+0000052943 00000 n 
+0000053130 00000 n 
+trailer
+<<
+/Size 24
+/Root 23 0 R
+/Info 1 0 R
+>>
+startxref
+53180
+%%EOF

@@ -1,0 +1,197 @@
+README for w11arm_esd2iso 4.0.2  (13-July-2023)
+
+SUMMARY
+
+This utility is designed to create ISO installation media for Windows 11 ARM from 
+ESD files in Microsoft's software distribution infrastructure.
+The resulting ISO can be used to install Windows 11 ARM virtual machines on VMware 
+Fusion 13 on Apple Silicon. 
+
+This utility will not be necessary when either Microsoft provides a Windows 11 ARM ISO 
+for end-user download or VMware provides a way to create the ISO in their Fusion product 
+like Parallels does.
+
+CONTENTS OF ZIP FILE
+
+Contents of the downloaded zip file:
+
+	- README - (this document)
+	- w11arm_esd2iso (the utilituy)
+	- w11arm_esd2iso_manpage.pdf (PDF version of documentation in man(1) format.
+	- doc (other documentation and GPL licensing notices)
+	- bin (required open source utilities)
+	- lib (libraries for required open source utiltiies)
+
+CHANGES IN V4.0.2
+
+	Version 4.0.2 fixes a bug where installation of an open-source version of 'tar' 
+	through Homebrew or MacPorts caused a failure to extract the Windows 11 catalog of
+	available downloads. This bug is fixed by explicitly invoking the 'tar' utility
+	using its full path instead of relying on it being found through the PATH variable.
+	
+See the CHANGELOG document in the doc folder for changes made in prior versions.
+
+EXAMPLES
+
+Here is an example of the new process to build an en-us (US English) using the new
+interactive features:
+
+% ./w11arm_esd2iso   
+[INFO] Bundled utilities are being used.
+
+Do you want to create an ISO containing Windows 11 ARM Home/Professional editions
+or Professional/Enterprise editions?
+
+Enter 'h' to create a Home/Professional ISO
+      'e' to create a Professional/Enterprise ISO
+      'q' to quit: h
+
+Windows 11 ARM Home/Professional ISO will be created.
+
+Please wait while information is being downloaded from Microsoft for the Home/Professional ESDs
+Processing complete
+
+
+Please select a language for your Windows 11 ARM ISO.
+
+Available Windows 11 ARM languages are:
+
+Language tag         Language                      
+------------         --------------------          
+bg-bg                Bulgarian (Bulgaria)          
+cs-cz                Czech (Czechia)               
+da-dk                Danish (Denmark)              
+de-de                German (Germany)              
+el-gr                Greek (Greece)                
+en-gb                English (United Kingdom)      
+en-us                English (United States)       
+es-es                Spanish (Spain, International Sort)
+es-mx                Spanish (Mexico)              
+et-ee                Estonian (Estonia)            
+fi-fi                Finnish (Finland)             
+fr-ca                French (Canada)               
+fr-fr                French (France)               
+he-il                Hebrew (Israel)               
+hr-hr                Croatian (Croatia)            
+hu-hu                Hungarian (Hungary)           
+it-it                Italian (Italy)               
+ja-jp                Japanese (Japan)              
+ko-kr                Korean (Korea)                
+lt-lt                Lithuanian (Lithuania)        
+lv-lv                Latvian (Latvia)              
+nb-no                Norwegian Bokmål (Norway)    
+nl-nl                Dutch (Netherlands)           
+pl-pl                Polish (Poland)               
+pt-br                Portuguese (Brazil)           
+pt-pt                Portuguese (Portugal)         
+ro-ro                Romanian (Romania)            
+ru-ru                Russian (Russia)              
+sk-sk                Slovak (Slovakia)             
+sl-si                Slovenian (Slovenia)          
+sr-latn-rs           Serbian (Latin, Serbia)       
+sv-se                Swedish (Sweden)              
+th-th                Thai (Thailand)               
+tr-tr                Turkish (Turkey)              
+uk-ua                Ukrainian (Ukraine)           
+zh-cn                Chinese (Simplified, China)   
+zh-tw                Chinese (Traditional, Taiwan) 
+                                                   
+
+Enter a language tag from the 'Language Tag' colummn of the list,
+'list' to reprint the list of languages, or
+'quit' to exit the program: en-us
+
+Step 1: Getting information about the requested en-us ESD file
+
+Selected language of the ISO is en-us
+The generated ISO will be ./22621.1702.230505-1222.ni_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_en-us.iso
+
+Step 1 complete
+
+Step 2: Downloading ESD from Microsoft
+ESD Download attempt 1
+
+06/27 23:14:17 [NOTICE] Downloading 1 item(s)
+[#8e6e62 4.0GiB/4.0GiB(99%) CN:1 DL:25MiB]                                                                          
+06/27 23:16:55 [NOTICE] Download complete: ./esd2iso_temp.6w9WAj/22621.1702.230505-1222.ni_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_en-us.esd
+
+Download Results:
+gid   |stat|avg speed  |path/URI
+======+====+===========+=======================================================
+8e6e62|OK  |    26MiB/s|./esd2iso_temp.6w9WAj/22621.1702.230505-1222.ni_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_en-us.esd
+
+Status Legend:
+(OK):download completed.
+
+Step 2 complete - ESD downloaded
+
+Step 3: Building installation image from ESD distribution
+
+Applying boot files to the image
+Boot files successfully applied to image
+
+Adding WinPE and Windows Setup to the image
+WinPE and Windows Setup added successfully to image
+
+
+Adding Windows 11 Home to the image
+Windows 11 Home added successfully to the image
+
+Adding Windows 11 Home Single Language to the image
+Windows 11 Home Single Language added successfully to the image
+
+Adding Windows 11 Pro to the image
+Windows 11 Pro added successfully to the image
+
+All Windows editions added to image
+
+Step 3 complete - installation image built
+
+Step 4: Creating ISO ./22621.1702.230505-1222.ni_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_en-us.iso from the installation image
+
+Creating hybrid image...
+....................................................................................................................
+
+Step 4 complete - ISO created
+
+Cleaning up work directory
+Done!
+ 
+
+LEGAL
+
+w11arm_esd2iso is Copyright (C) 2023 Paul Rockwell
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+
+QUESTIONS?
+
+Any questions about this utility should be posted to the VMware Fusion forum: 
+https://communities.vmware.com/t5/VMware-Fusion/ct-p/3005-home
+
+FOUND A BUG?
+
+If you find an error please report it in a new post in the VMware Fusion forum
+https://communities.vmware.com/t5/VMware-Fusion/ct-p/3005-home 
+
+When you report an error, please re-create it by running w11arm_esd2iso with the 
+-v (verbose) option, capture the output in a text document, and create a zip file 
+containing the output. Attach that zip file to your post in the VMware Fusion forum.
+
+It is preferred that you do NOT submit bug reports to the VMware Fusion Documents forum post 
+https://communities.vmware.com/t5/VMware-Fusion-Documents/w11arm-esd2iso-a-utility-to-create-Windows-11-ARM-ISOs-from/ta-p/2957381
+where you found this utility. Replies in the VMware Fusion Documents forum do not have 
+the ability to attach zip files containing logging that can help resolve the issue.
+

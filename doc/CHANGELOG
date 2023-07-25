@@ -1,0 +1,111 @@
+CHANGELOG
+
+Version 4.0.2 (13-July-2023)
+
+	Version 4.0.2 fixes a bug where installation of an open-source version of 'tar' 
+	through Homebrew or MacPorts caused a failure to extract the Windows 11 catalog of
+	available downloads. This bug was caused by an open-source version of 'tar' being
+	installed by Homebrew and found on the user's PATH variable before the macOS 
+	installed version. Thie bug is fixed by invoking the 'tar' utility using its full 
+	path instead of relying on it being found through the PATH variable.
+	
+Version 4.0.1 (03-July-2023)
+
+	Version 4.0.1 adds verification of the SHA1 hash of the ESD download to the hash
+	value provided by Microsoft. This will catch rare instances of a
+	corrupted download.  
+
+Version 4.0 (28-June-2023)
+
+	Version 4.0 is now an interactive utility that makes it even easier to create the Windows
+	11 ARM ISO.  
+	
+	THe utility now asks the user for the type of ISO to create (either Home/Pro or Pro/Enterprise)
+	and asks the user to select the language of the ISO from a list of valid languages
+	that it prints. It is no longer required to specify this information on the command line
+	or to run another option of the utility to print out the valid Windows languages.
+
+	As part of this change, the command line syntax is not compatible with versions 3.0.1
+	and earlier. The following changes have been made to the command line syntax:
+ 
+ 	- The esd-language argument on the command line is no longer required and has been removed. 
+ 	  This is replaced by the interactive dialog within the utility.
+ 	  
+ 	- The -l option to list the available languages has been removed.
+ 	  This is now automatically done as part of the new interactive dialog.
+ 	  
+ 	- The -b option to specify the Pro/Enterprise ISO hs been removed.
+ 	  This is replaced by a question for the user to select the editions in the 
+ 	  new interactive dialog. 
+ 	  
+	The -r option remains and is still used to resume an interrupted download.
+	
+	Version 4.0 recognizes if the wimlib or aria2 open-source utilities from Homebrew or 
+	MacPorts are available via the users $PATH veriable, and will use them if they are found.
+	If they aren't found, the bundled versions will be used. 
+	
+	The amount of disk required by the ISO build process has been reduced. 
+	The downloaded ESD file is deleted immediately before step 4 (the creation of the 
+	ISO from the installation image) as it is no longer needed at that point. This saves
+	approximately 5 GB of disk space over versions 3.0.1 and earlier during the build 
+	process. 
+	 
+	
+Version 3.0.1 (21-May-2023)
+
+	Version 3.0 would display macOS Gatekeeper errors such as "unidentified
+	developer" and "unable to verify with Apple" which prevented the utility from running.
+	These errors were displayed when the the utility tried to run any of the bundled open source
+	components.
+	The errors could be worked around, but would require multiple
+	manual interventions by the user to allow w11arm_esd2iso to run.
+	This has been fixed in 3.0.1, and no manual intevention by the user is required.
+
+Version 3.0 (19-May-2023)	
+
+	Now released under GPLv2 license.
+
+	Removal of manpage documentation from README file.
+	
+	Creation of manpage documentation in pdf format.
+	
+	Rename of utility from w11arm_esd2iso.sh to w11arm_esd2iso.
+
+	Installation of aria2 and wimlib from Homebrew or MacPorts is no longer required. The
+	necessary utilities that w11arm_esd2iso needs are now bundled with the distribution.
+
+	Tests required for existence of Homebrew or MacPorts have been removed since they
+	are no longer necessary. 
+
+	Removal of -a option - aria2c is used for all downloads and restarts are
+	automatically enabled.
+	
+Version 2.1 (22-Mar-2023)
+
+	Additional checks for required utilities. 
+	
+	Check if $PATH contains the Homebrew or MacPorts directores. Add them if
+	they are present and are not on $PATH already.
+	
+	Examples now appear in the README file
+
+Version 2.0 (15-Mar-2023)
+
+	Enhanced error detection.
+	
+	Reduction of "chatty" output when the -v (verbose) option is not selected. 
+	
+	The -v (verbose) option now includes more information for use in debugging
+	(and if you're really interested in what goes on under the hood).
+	
+	Addition of -V option to print the script version and exit.
+	
+	When using the -a option, the script will now retry an interrupted ESD download 
+	up to 20 times before aborting the script. This should reduce the need to use the 
+	-r option to restart interrupted ESD downloads due to network issues.
+	
+	Some internal changes for efficiency.
+	
+
+Version 1.0 - Initial release
+
